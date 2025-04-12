@@ -1,6 +1,11 @@
-## 1. Einführung und Hintergrund
+**Einführung in das zauberhafte Zamonien**
 
-Zamonien ist ein Universum, in dem Fantasie, literarische Magie und skurrile Geschöpfe auf einzigartige Weise koexistieren. In dieser Welt wird Geschichte nicht nur erzählt – sie wird gelebt. 
-Jede Gasse, jeder Turm und jedes rätselhafte Artefakt birgt ein eigenes Epos oder einen versunkenen Vers, der darauf wartet, entdeckt zu werden. 
-Das vorliegende Regelwerk lädt Spieler dazu ein, als Helden, Magier, Abenteurer oder wissensdurstige Schriftgelehrte in einem Land voller wunderlicher Kreaturen und literarischer Geheimnisse aufzutreten. 
-Die Welt Zamonien ist dabei so vielseitig wie die Geschichten, die sie hervorgebracht hat – ein kreativer Schmelztiegel, in dem jede Aktion und jeder Gedanke die Geschichte neu schreibt.
+Willkommen in Zamonien – einer Welt, in der Magie, Geschichten und Schicksal zu einem lebendigen Geflecht verwoben sind. Hier haben Worte Macht, und jede Erzählung ist mehr als nur eine Geschichte – sie ist ein Funke, der die Realität neu entfachen kann. In Zamonien treffen klassische Abenteuerlust auf das Unerwartete; Helden und Schurken, Magie und Mythos, tapfere Schlachten und rätselhafte Legenden gehen Hand in Hand.
+
+In dieser Welt wählen die Spieler nicht nur ihre Wege, sondern auch ihre Identität. Ob als vielseitiger **Abenteurer**, der unerschrocken den Pfad durch verlassene Ruinen und mystische Wälder beschreitet, oder als **Magier des Geschichtenspinnens**, der mit scharfer Klugheit und tiefem arkanen Wissen die Realität mit Worten umgestaltet – jede Klasse bringt ihren eigenen Zauber ins Spiel. Auch Klassen wie **Schreibmeister**, **Bücherlesen**, **Dämonenjäger** und **Schicksalstänzer** (ehemals Schanger) ermöglichen es, das Schicksal durch kreative, oft unkonventionelle Taktiken zu beeinflussen.
+
+Die Vielfalt hört jedoch nicht bei den Klassen auf. Die Charaktere stammen aus ebenso vielfältigen Rassen – sei es ein ausgewogener **Zamonier**, der in allen Attributen punktet, ein flinker **Igelfink**, ein robust wirkender **Ormfresser**, ein mystischer **Traumwandler**, ein wissensdurstiger **Buchling**, ein interdimensionaler **Dimensionslochreisender** oder ein charismatischer **Buntbär**. Jede Rasse verleiht ihren Helden besondere Boni und formt so das einzigartige Wesen ihrer Kämpfer, Magier und Denker.
+
+Die gefährlichen und faszinierenden Schauplätze Zamonien‘s – von der verfluchten Bibliothek über den labyrinthischen Urwald bis hin zu den rätselhaften Tempeln, dem bizarren Markt und der endlosen Wüste – laden dazu ein, Geheimnisse zu lüften und alten Zauber neu zu entdecken. Ob es darum geht, uralte Texte zu dechiffrieren, magische Ritualen zu folgen oder sich epischen Konfrontationen zu stellen: Jede Entscheidung, jeder Würfelwurf sowie jede improvisierte Erzählung zählt.
+
+Dieses Spiel ist mehr als ein Kampf um Sieg oder Niederlage – es ist ein lebendiges Epos, in dem jeder Spieler mit Kreativität und Mut dazu beiträgt, die Landschaft der Legenden zu formen. Trete ein in die Welt von Zamonien, und schreibe deinen eigenen Vers in der unendlichen Geschichte dieser magischen Welt. Viel Spaß auf deinem Abenteuer!

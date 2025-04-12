@@ -1,11 +1,9 @@
-```markdown
 # Zamonien Regelwerk
 
 Willkommen im offiziellen Repository des Zamonien Regelwerks!  
 Dieses Repository umfasst das Regelbuch, welches die fantastischen und literarisch-magischen Abenteuer in der Welt Zamonien beschreibt.
 
 ## Inhaltsübersicht
-
 1. [Einführung und Hintergrund](docs/01_Einfuehrung_und_Hintergrund.md)
 2. [Spielmechaniken und Würfelsystem](docs/02_Spielmechaniken_und_Wuerfelsystem.md)
 3. Charaktererschaffung  
