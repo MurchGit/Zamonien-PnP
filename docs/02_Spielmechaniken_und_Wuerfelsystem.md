@@ -1,22 +1,49 @@
 ## 2. Spielmechaniken und Würfelsystem
 
-### Grundprinzipien
+---
 
-Das Kernsystem dieses Rollenspiels basiert auf würfelbasierter Entscheidungsfindung, bei der Kreativität und narrative Freiheit eine zentrale Rolle spielen. Die Grundmechanik verwendet einen zwanzigseitigen Würfel (d20) als Hauptentscheidungswerkzeug. Ob es darum geht, die Wirkung eines literarischen Zaubers zu entfalten, einen gefährlichen Sprung zu wagen oder mit einer scharfsinnigen Beobachtung einen versteckten Hinweis zu entdecken – stets entscheidet der d20-Wurf über Erfolg oder Misserfolg.
+### Grundprinzip des Systems
 
-### Würfelmodifikatoren und Proben
+Das Spiel basiert auf einem einfachen, aber vielseitigen Würfelsystem, das es ermöglicht, sowohl klassische Kampfsituationen als auch erzählerische Konflikte dynamisch und abwechslungsreich zu gestalten. Zentraler Bestandteil ist dabei der W20, dessen Würfelergebnis um relevante Attributswerte sowie Klassen- und Rassenboni modifiziert wird.
 
-Jeder Spielercharakter besitzt verschiedene Attribute, die in unterschiedlichen Situationen als Modifikatoren zu den d20-Würfen hinzugerechnet werden. Die allgemeine Formel zur Bestimmung eines Proben-Ergebnisses lautet:
+**Beispiel für einen Wurf:**  
+„Aktionsergebnis = 1d20 + (relevante Attribute) + (Klassenbonus) + (Rassenbonus)“
 
-&nbsp;&nbsp;&nbsp;&nbsp;**Probe = d20 + Attributswert + situative Modifikatoren**
+Dieses System erlaubt es, jede Aktion – ob ein körperlicher Angriff, ein magischer Duell oder ein rhetorisch-ästhetischer Wortkampf – in einem einzigen Wurf zu entscheiden und dabei den individuellen Charakter des Helden einzubinden.
 
-Die Schwierigkeit (Schwellenwert) einer Aufgabe wird vom Spielleiter festgelegt. Gelingt es einem Spieler, den Schwellenwert zu erreichen oder zu übertreffen, gilt die Aktion als erfolgreich. Im Falle von magischen oder literarischen Aktionen wird zusätzlich oft ein „Kreativitätswert“ hinzugezogen – ein Maß dafür, wie originell der erzählte Vers oder das abgefasste Gedicht ist.
+---
 
-### Initiative, Aktionen und Runden
+### Aufteilung der Konflikte
 
-Im kombinierten Kampfsystem ermittelt jeder Charakter seine Initiative, üblicherweise als Summe aus Geschicklichkeitswert und einem Würfelwurf (z. B. d6). In der Reihenfolge der Initiative führen die Spieler und Gegenspieler abwechselnd ihre Aktionen aus. Eine typische Runde gliedert sich in:
-- **Aktion:** Angriff, Zauber wirken, literarische Beschwörungen etc.  
-- **Bewegung:** Positionswechsel auf der Karte oder Veränderungen im erzählten Setting.  
-- **Bonusaktion:** Einsatz spezieller Fähigkeiten oder Nutzung von Gegenständen.
+**1. Physischer Kampf:**  
+Bei körperlichen Auseinandersetzungen werden in der Regel Attribute wie Mut und Geschicklichkeit herangezogen. Der Angreifer würfelt beispielsweise 1d20 + Mut + Geschicklichkeit, während der Verteidiger gegen diesen modifizierten Würfelwurf antritt (zum Beispiel mit einem Wurf basierend auf Geschicklichkeit und eventuellen Rüstungseffekten). Der Schaden wird dann zusätzlich durch spezielle Schadenswürfel (z.B. 1d6 oder 1d8) und attributsbasierte Boni bestimmt.
 
-Diese Struktur erlaubt es, sowohl dynamische Kämpfe als auch erzählerische Konflikte flüssig darzustellen.
+**2. Magische Auseinandersetzungen:**  
+Magische Duelle beruhen auf den Attributen Klugheit und Magiekund. Magier und andere zaubernde Klassen setzen präzise Wortzauber und narrative Rituale ein, die gegen einen Verteidigungswurf (häufig unter Einbeziehung von Klugheit und Schlagfertigkeit) gemessen werden. Ein kritischer Wurf (z. B. ein natürlicher 20er) kann hier zu zusätzlichen Effekten führen, die den feindlichen Zauber unterbrechen oder umkehren.
+
+**3. Ästhetisch-narrative Konflikte:**  
+Bei Konflikten, die auf Rhetorik, Überzeugungskraft oder künstlerischem Ausdruck basieren, werden Attribute wie Ästhetik und Glück ins Gewicht gelegt. Diese Art von Auseinandersetzungen kann beispielsweise in hitzigen Debatten auftreten, in denen die Fähigkeit, kreative und überzeugende Worte zu wählen, den Ausschlag gibt. Auch hier entscheidet ein modifizierter Wurtwurf über den Erfolg des Angriffs oder der Verteidigung.
+
+---
+
+### Initiative und Rundenstruktur
+
+Zu Beginn jeder Kampfrunde wird die Initiative ermittelt – in der Regel durch einen Wurf (1d20) modifiziert durch relevante Attribute, häufig Geschicklichkeit. Der Charakter mit dem höchsten Ergebnis darf die Runde eröffnen, was den taktischen Ablauf der Begegnung prägt. Jede Runde umfasst dann strategische Aktionen, bei denen Angriffe, Verteidigungen und auch improvisierte Kreativitätswürfe zur Anwendung kommen.
+
+---
+
+### Kreativitätswürfe und Erzählerische Elemente
+
+Ein besonderer Clou im System sind Kreativitätswürfe, die es Spielern ermöglichen, außergewöhnliche, improvisierte Ideen in den Kampf oder in Konfliktsituationen einzubringen. Gelingt ein solcher Wurf – oft über Attribute wie Klugheit, Ästhetik oder Glück abgewickelt – kann dies zu narrativen Wendungen oder zusätzlichen Boni führen, die den Ausgang einer Situation drastisch beeinflussen.
+
+---
+
+### Zusammenfassung
+
+- **Zentraler Mechanismus:** Ein W20-Wurf, der mit spezifischen Attributen, Klassen- und Rassenboni ergänzt wird.  
+- **Konflikttypen:** Physische Kämpfe, magische Duelle und ästhetisch-narrative Konflikte, die jeweils unterschiedliche Attributskombinationen erfordern.  
+- **Initiative und Runden:** Jeder Kampf beginnt mit einem Initiativwurf, gefolgt von rundenbasierten Aktionen, bei denen kritische Erfolge und Improvisationsmöglichkeiten die Geschichte dynamisch beeinflussen.  
+
+Dieses System verbindet taktisches Vorgehen mit erzählerischer Freiheit – ideal für eine Welt, in der Worte genauso mächtig sind wie Schwerter und Kreativität den Unterschied zwischen Sieg und Niederlage ausmachen kann.
+
+Welche spektakulären Momente oder kreativen Ideen sich aus dieser Kombination ergeben, liegt in der Hand der Spieler und des Spielleiters – und macht jedes Spiel zu einem einzigartigen Kapitel in der unendlichen Geschichte von Zamonien.
