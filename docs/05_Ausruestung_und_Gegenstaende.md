@@ -1,26 +1,13 @@
 ## 5. Ausrüstung und Gegenstände
 
-Zamonien ist reich an kuriosen, magischen und oft eigenwillig komischen Gegenständen. Spieler können neben konventionellen Waffen und Rüstungen auch Artefakte nutzen, die direkt aus einem alten Folianten zu stammen scheinen. Einige Beispiele:
+> [!NOTE]
+>Zamonien ist reich an kuriosen, magischen und oft eigenwillig komischen Gegenständen. Spieler können neben konventionellen Waffen und Rüstungen auch Artefakte nutzen, die direkt aus einem alten Folianten zu stammen scheinen. Einige Beispiele:
 
-| Name                               | Beschreibung                                                                                                     | Mechanik/Boni                                         |
-|------------------------------------|------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|
-| **Die Feder der Unendlichen Inspiration** | Eine schimmernde Feder, die scheinbar von selbst Worte schreibt – ideal für literarische Zauber.                  | +2 auf Ästhetik, verleiht Kreativitätsbonus bei Verbalsprüchen. |
-| **Das Buch der Verlorenen Geschichten**   | Ein ehrwürdiger Foliant, dessen vergilbte Seiten uralte Geheimnisse bergen.                                    | Einmalige Orakelchance: Ermöglicht einen Überblick über verborgene Hinweise.|
-| **Schreckensklinge**                      | Ein Schwert, verziert mit rätselhaften Inschriften, das sich gegen finstere Mächte bewährt.                         | +3 auf Angriffswürfe gegen übernatürliche Gegner.     |
-| **Talismane der Zeitverdrehung**          | Ein geheimnisvolles Amulett, das einen kurzen Blick in alternative Zukunftsvarianten gewährt.                     | Einmal pro Sitzung als Wiederholungswurf oder Bonus nutzbar.   |
-| **Magische Brille "Das Ausleser"**        | Eine eigenartig gestaltete Brille, die verborgene Texte und magische Schwingungen sichtbar macht.                   | +2 Bonus auf Intelligenz- und Wissenswürfe in literarischen Szenarien. |
-| **Elixier der schimmernden Schatten**     | Ein funkelnder Trank, der vorübergehend Sinne schärft und die Wahrnehmung magischer Energien steigert.               | Temporär +2 auf Geschicklichkeit und Magiekund für einige Runden.    |
-
-Die Vielfalt der Gegenstände lädt dazu ein, dass sich jedes Abenteuer individuell anfühlt und jede Begegnung mit einem als eigenwillig empfundenen Artefakt neue Möglichkeiten eröffnet.
-
-
-Hier sind Vorschläge für zwei Kategorien von magischen Gegenständen – solche, die auf den Basarmärkten der Mysterien von Zamonien bei Händlern zu finden sind, und solche, die als lohnende Schätze von besiegten Monstern in die Hände der Abenteurer gelangen. Beide Gruppen fügen sich nahtlos in das verzauberte Setting ein und können sowohl taktische Boni als auch farbenfrohe, erzählerische Würze in eure Kampagnen bringen.
-
----
 
 ## A. Händler-Gegenstände
 
-Diese Objekte werden von kundigen, oftmals eigenwilligen Händlern angeboten. Sie sind sorgfältig gefertigt, mit klaren Effekten und meist leichter zugänglich. Im Folgenden eine Auswahl:
+> [!NOTE]
+>Diese Objekte werden von kundigen, oftmals eigenwilligen Händlern angeboten. Sie sind sorgfältig gefertigt, mit klaren Effekten und meist leichter zugänglich. Im Folgenden eine Auswahl:
 
 | **Ausrüstungsgegenstand**                  | **Einfluss auf Attribute**            | **Beschreibung & Effekte**                                                                                                                                                                                                                                       | **Anmerkungen**                                          |
 |---------------------------------|----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
@@ -35,22 +22,25 @@ Diese Objekte werden von kundigen, oftmals eigenwilligen Händlern angeboten. Si
 | **Armband der akrobatischen Worte**| GEW, SCH          | Ein filigranes Armband, verziert mit kleinen, fließenden Schriftzügen, das die Beweglichkeit (GEW) der Hände unterstützt und blitzschnelle Reaktionen (SCH) bei Verbalzaubern ermöglicht. Es hilft, die Begleitgesten zu verfeinern und fördert spontane, schlagfertige Konter in hitzigen magischen Duellen.                           | Perfekt für jene, die in turbulenten Gefechten sowohl physische als auch sprachliche Agilität brauchen.                          |
 | **Laterne der erleuchteten Strophen** | VER, FAN         | Eine antike Laterne, aus der nicht nur Licht, sondern auch schwebende, silberne Verse herabfallen. Sie hilft, das Zusammenspiel aus logischer Struktur (VER) und kreativer Inspiration (FAN) zu intensivieren. Besonders in dunklen Ecken und geheimnisvollen Ruinen enthüllt sie verborgene magische Schriftzüge und inspiriert zu neuen Zauberformen. | Kann in finsteren Situationen als Leitfaden dienen und zusätzlichen Bonus bei literarischen Ritualen gewähren.                 |
 
-| **Tränke**                  | **Einfluss auf Attribute**            | **Beschreibung & Effekte**                                                                                                                                                                                                                                       | **Anmerkungen**                                          |
+
+> [!TIP]
+>Diese Händlergegenstände bieten den Spielern konstante Boni und thematischen Reichtum – perfekt, um den Alltag und die großen, epischen Auftritte im Spiel zu unterstützen.
+
+
+| **Tränke**     | **Einfluss auf Attribute**            | **Beschreibung & Effekte**                                                       | **Anmerkungen**                                          |
 |---------------------------------|----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
-| **Trank der inspirierenden Fantasie**  | FAN        | Ein schillernder Trank, dessen Inhalt in wechselnden, lebendigen Farben zu pulsieren scheint. Er beflügelt die Kreativität und verleiht dem Anwender für kurze Zeit einen temporären Bonus auf Kreativitätswürfe, sodass spontane Wortzauber und literarische Ideen in ihrer ganzen Pracht erblühen können.                                                                                                         | Perfekt, um in entscheidenden Momenten neue, überraschende Zauberformulierungen zu entwickeln.                      |
-| **Trank des unerschütterlichen Mutes**   | MUT       | Ein feurig leuchtender Trank, der dem Trinker eine Aura tapferer Entschlossenheit verleiht. Er stärkt den Mut und gewährt in brenzligen Situationen einen Bonus auf Mutproben, sodass selbst bedrohliche Konfrontationen mit furchtlosem Einsatz angegangen werden können.                                                                                                                            | Ein Hauch von Unverwüstlichkeit – ideal, wenn der Schatten der Gefahr am dunkelsten scheint.                         |
-| **Trank der geordneten Gedanken**        | VER      | Ein kristallklarer Trank, der in seinen glitzernden Facetten pure Klarheit und Logik symbolisiert. Der Trank schärft den Verstand des Trinkenden, verbessert die Struktur von Zauberformeln und stabilisiert komplexe Rituale, indem er einen temporären Bonus auf Verstandswürfe verleiht.                                                                                                             | Besonders nützlich bei anspruchsvollen Ritualen oder wenn ein kühler Kopf über den Erfolg eines Zaubers entscheidet.   |
-| **Trank der geschmeidigen Bewegung**     | GEW       | Ein zarter, transparent-blauer Trank, der förmlich vor fließender Anmut strotzt. Er erhöht die körperliche Geschicklichkeit und verleiht einen Bonus auf Gewandtheitswürfe, sodass der Anwender blitzschnelle, präzise Gesten ausführen und unerwartete Bewegungen im Kampffluss oder bei magischen Aufführungen meistern kann.                                                         | Ideal, wenn schnelle Reaktionen und elegante Bewegungen im Angesicht plötzlicher Gefahr gefragt sind.                |
-| **Elixier der schimmernden Schatten** | Ein funkelnder Trank, der vorübergehend Sinne schärft und die Wahrnehmung magischer Energien steigert.               | Temporär +2 auf Geschicklichkeit und Magiekund für einige Runden.    |
-
-
-Diese Händlergegenstände bieten den Spielern konstante Boni und thematischen Reichtum – perfekt, um den Alltag und die großen, epischen Auftritte im Spiel zu unterstützen.
+| **Trank der inspirierenden Fantasie** ![Potion-27](https://github.com/user-attachments/assets/857472d1-14ed-472c-ba2d-cf7fedfd2a38) | FAN    | Ein schillernder Trank, dessen Inhalt in wechselnden, lebendigen Farben zu pulsieren scheint. Er beflügelt die Kreativität und verleiht dem Anwender für kurze Zeit einen temporären Bonus auf Kreativitätswürfe, sodass spontane Wortzauber und literarische Ideen in ihrer ganzen Pracht erblühen können.              | Perfekt, um in entscheidenden Momenten neue, überraschende Zauberformulierungen zu entwickeln.            |
+| **Trank des unerschütterlichen Mutes** ![Potion-32](https://github.com/user-attachments/assets/523db1fe-91ce-44f7-ba7f-123938ffcbe0)  | MUT       | Ein feurig leuchtender Trank, der dem Trinker eine Aura tapferer Entschlossenheit verleiht. Er stärkt den Mut und gewährt in brenzligen Situationen einen Bonus auf Mutproben, sodass selbst bedrohliche Konfrontationen mit furchtlosem Einsatz angegangen werden können.      | Ein Hauch von Unverwüstlichkeit – ideal, wenn der Schatten der Gefahr am dunkelsten scheint.          
+| **Trank der geordneten Gedanken**   ![Potion-42](https://github.com/user-attachments/assets/f9a72d5f-6ffa-4298-a491-a096b64fb63f)    | VER      | Ein kristallklarer Trank, der in seinen glitzernden Facetten pure Klarheit und Logik symbolisiert. Der Trank schärft den Verstand des Trinkenden, verbessert die Struktur von Zauberformeln und stabilisiert komplexe Rituale, indem er einen temporären Bonus auf Verstandswürfe verleiht.                                                                                                             | Besonders nützlich bei anspruchsvollen Ritualen oder wenn ein kühler Kopf über den Erfolg eines Zaubers entscheidet.   |
+| **Trank der geschmeidigen Bewegung**  ![Potion-44](https://github.com/user-attachments/assets/c4d5a739-15cd-4a01-8499-a0d196727596)   | GEW       | Ein zarter, transparent-blauer Trank, der förmlich vor fließender Anmut strotzt. Er erhöht die körperliche Geschicklichkeit und verleiht einen Bonus auf Gewandtheitswürfe, sodass der Anwender blitzschnelle, präzise Gesten ausführen und unerwartete Bewegungen im Kampffluss oder bei magischen Aufführungen meistern kann.                                                         | Ideal, wenn schnelle Reaktionen und elegante Bewegungen im Angesicht plötzlicher Gefahr gefragt sind.                |
+| **Elixier der schimmernden Schatten**![Potion-25](https://github.com/user-attachments/assets/934e0d49-46aa-4ec2-9075-230260e5d979) | Ein funkelnder Trank, der vorübergehend Sinne schärft und die Wahrnehmung magischer Energien steigert.               | Temporär +2 auf Geschicklichkeit und Magiekund für einige Runden.    |
 
 ---
 
 ## B. Monsterbeutestücke
 
-Diese geheimnisvollen Objekte erhalten die Abenteurer, wenn sie mächtige, oft skurrile Gegner bezwingen. Sie sind weniger geplant, oft unberechenbar und verwoben mit uralter Magie – manchmal mit großem Segen, manchmal mit ebenso großen Risiken:
+> [!NOTE]
+>Diese geheimnisvollen Objekte erhalten die Abenteurer, wenn sie mächtige, oft skurrile Gegner bezwingen. Sie sind weniger geplant, oft unberechenbar und verwoben mit uralter Magie – manchmal mit großem Segen, manchmal mit ebenso großen Risiken:
 
 | **Gegenstand**                      | **Betonte Attribute**       | **Beschreibung & Effekte**                                                                                                                                                                                                                                            | **Besonderheiten**                                              |
 |-------------------------------------|-----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
@@ -77,6 +67,7 @@ Diese geheimnisvollen Objekte erhalten die Abenteurer, wenn sie mächtige, oft s
 | **Talismane der Zeitverdrehung**    | Ein geheimnisvolles Amulett, das einen kurzen Blick in alternative Zukunftsvarianten gewährt.                     | Einmal pro Sitzung als Wiederholungswurf oder Bonus nutzbar.   |
 | **Magische Brille "Das Ausleser"**   | Eine eigenartig gestaltete Brille, die verborgene Texte und magische Schwingungen sichtbar macht.                   | +2 Bonus auf Intelligenz- und Wissenswürfe in literarischen Szenarien. |
 
-Monsterbeutestücke eröffnen oft unerwartete Möglichkeiten, indem sie den Spielern einmalige Chancen bieten – oder sie in riskante, aber spannungsgeladene Abenteuer stürzen. Ihr Einsatz sollte stets als spannender Plot-Twist interpretiert werden.
+> [!TIP]
+>Monsterbeutestücke eröffnen oft unerwartete Möglichkeiten, indem sie den Spielern einmalige Chancen bieten – oder sie in riskante, aber spannungsgeladene Abenteuer stürzen. Ihr Einsatz sollte stets als spannender Plot-Twist interpretiert werden.
 
 ---
