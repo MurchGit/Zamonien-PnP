@@ -12,10 +12,10 @@ Dieses Spiel ist mehr als ein Kampf um Sieg oder Niederlage – es ist ein leben
 
 
 
-
+![Danksagung](/Assets/headericons/hBanner015.png)
 
 Ein herzliches Dankeschön an Walter Moers für die Erschaffung des wundersamen und faszinierenden Universums Zamonien! Mit seiner unvergleichlichen Fantasie und seinem einzigartigen Erzählstil hat er eine Welt erschaffen, die uns inspiriert, zum Staunen bringt und zum Träumen einlädt. Zamonien ist ein Geschenk an alle, die Freude an außergewöhnlichen Geschichten und lebendigen Charakteren haben.
 
 Ebenso ein großer Dank an die Gemeinschaft von [zamonien.fandom.com](https://zamonien.fandom.com/) für das Sammeln und Teilen wertvoller Informationen. 
 
-Danke, dass ihr uns allen erlaubt, die Magie von Zamonien zu erleben und darin einzutauchen. 
+Danke, dass ihr uns allen erlaubt, die Magie von Zamonien zu erleben und darin einzutauchen.

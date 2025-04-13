@@ -1,24 +1,23 @@
-# Z-PnP Regelwerk
+#  ![zPnP Regelwerk](/Assets/headericons/hIcon003.png)
 
 Willkommen im Repository des Zamonien Regelwerks!  
 Dieses Repository umfasst ein Regelbuch, welches dich fantastische und literarisch-magische Abenteuer in der Welt von Zamonien beschreibt und erleben lässt.
 
 ## Inhaltsübersicht
-1. [Einführung und Hintergrund](docs/01_Einfuehrung_und_Hintergrund.md)
-2. [Spielmechaniken und Würfelsystem](docs/02_Spielmechaniken_und_Wuerfelsystem.md)
-3. Charaktererschaffung  
-   - [Attributsystem](docs/03_Charaktererschaffung/03_1_Attributsystem.md)
-   - [Rassen in Zamonien](docs/03_Charaktererschaffung/03_2_Rassen_in_Zamonien.md)
-   - [Klassen in Zamonien](docs/03_Charaktererschaffung/03_3_Klassen_in_Zamonien.md)
-   - [Charakterbogen](docs/03_Charaktererschaffung/03_4_Charakterbogen.md)
-4. [Magiesystem und besondere Fähigkeiten](docs/04_Magiesystem_und_Besondere_Faehigkeiten.md)
-5. [Ausrüstung und Gegenstände](docs/05_Ausruestung_und_Gegenstaende.md)
-6. [Orte und Schauplätze](docs/06_Orte_und_Schauplaetze.md)
-7. [Kampf- und Konfliktsystem](docs/07_Kampf_und_Konfliktsystem.md)
-8. [Spielleiteranweisungen](docs/08_Spielleiteranweisungen.md)
-9. [Kampagnengestaltung und Abenteuerideen](docs/09_Kampagnengestaltung_und_Abenteuerideen.md)
-10. [Anhang: Beispielcharaktere, Gegenstände und Orte](docs/10_Anhang_Beispielcharaktere_Gegenstaende_und_Orte.md)
-
+1. [![Einführung & Hintergrund](/Assets/headericons/hBanner018.png)](docs/02_Spielmechaniken_und_Wuerfelsystem/01_Einfuehrung_und_Hintergrund.md)
+2. [Spielmechaniken und Würfelsystem](/Assets/headericons/hBanner017.png)
+3. ![Charaktererschaffung ](/Assets/headericons/hBanner016.png)
+   - [![Attributsystem](/Assets/headericons/hBanner019.png)](docs/03_Charaktererschaffung/03_1_Attributsystem.md)
+   - [![Rassen](/Assets/headericons/hBanner020.png)](docs/03_Charaktererschaffung/03_2_Rassen_in_Zamonien.md)
+   - [![Klassen](/Assets/headericons/hBanner021.png)](docs/03_Charaktererschaffung/03_3_Klassen_in_Zamonien.md)
+   - [![Charakterbogen](/Assets/headericons/hBanner022.png)](docs/03_Charaktererschaffung/03_4_Charakterbogen.md)
+4. [![Magiesystem & Besondere Fähigkeiten](/Assets/headericons/hBanner008.png)](docs/04_Magiesystem_und_Besondere_Faehigkeiten/04_Magiesystem_und_Besondere_Faehigkeiten.md)
+5. [![Ausrüstung & Gegenstände](/Assets/headericons/hBanner009.png)](docs/05_Ausruestung_und_Gegenstaende/05_Ausruestung_und_Gegenstaende.md)
+6. [![Orte und Schauplätze](/Assets/headericons/hBanner010.png)](docs/06_Orte_und_Schauplaetze/06_Orte_und_Schauplaetze.md)
+7. [![Kampf- und Konfliktsystem](/Assets/headericons/hBanner011.png)](docs/07_Kampf_und_Konfliktsystem/07_Kampf_und_Konfliktsystem.md)
+7. [![Spielleiteranweisungen](/Assets/headericons/hBanner012.png)](docs/08_Spielleiteranweisungen/08_Spielleiteranweisungen/08_Spielleiteranweisungen.md)
+9. [![Kampagnengestaltung und Abenteuerideen](/Assets/headericons/hBanner013.png)](/docs/09_Kampagnengestaltung_und_Abenteuerideen/Abenteuer/abenteuer.md)
+10. [![Anhang: Beispielcharaktere](/Assets/headericons/hBanner014.png)](docs/10_Anhang_Beispielcharaktere_Gegenstaende_und_Orte/10_Anhang_Beispielcharaktere_Gegenstaende_und_Orte.md)
 
  
 ## Rassen- & Attributregelwerk – Übersicht

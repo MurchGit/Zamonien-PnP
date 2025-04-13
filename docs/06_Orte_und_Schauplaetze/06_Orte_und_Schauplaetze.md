@@ -21,11 +21,13 @@
 - **Das Tempelareal der flüsternden Verse:**  
   Ein verlassenes Areal alter Tempelruinen, durchzogen von schimmernden Inschriften und verzauberten Mosaiken. Hier lauern fanatische Kultisten und geisterhafte Priester, während magische Glyphen und rätselhafte Mechanismen den Zugang zu verborgenen Kammern versperren.
 
-- **Der Bizarre Markt von Zamonien:**  
-  Ein lebendiger, chaotischer Marktplatz, an dem exzentrische Händler, fließende Zeitverhältnisse und illusorische Wegweiser den Besuchern ständig neue Überraschungen bieten. Täuschungen, trickreiche Marionetten und magische Energiestöße machen jeden Gang zu einem Abenteuer.
-
 - **Die Verlassene Wüste von Zamonien:**  
   Eine endlose, raue Landschaft, geprägt von sengender Hitze, flüsternden Dünen und trügerischen Oasen. Verfallene Ruinen und uralte Tempelstätten verbergen die Macht vergangener Rituale, während gefährliche Sandwürger und unvorhersehbare Naturphänomene auf Reisende lauern.
+
+---
+
+- [**Der Bizarre Markt von Zamonien:** ](/docs/06_Orte_und_Schauplaetze/06_6_Der_bizarre_Markt_von_Zamonien.md)
+  Ein lebendiger, chaotischer Marktplatz, an dem exzentrische Händler, fließende Zeitverhältnisse und illusorische Wegweiser den Besuchern ständig neue Überraschungen bieten. Täuschungen, trickreiche Marionetten und magische Energiestöße machen jeden Gang zu einem Abenteuer.
 
 ---
 

@@ -43,7 +43,3 @@ Ein besonderer Clou im System sind Kreativitätswürfe, die es Spielern ermögli
 - **Zentraler Mechanismus:** Ein W20-Wurf, der mit spezifischen Attributen, Klassen- und Rassenboni ergänzt wird.  
 - **Konflikttypen:** Physische Kämpfe, magische Duelle und ästhetisch-narrative Konflikte, die jeweils unterschiedliche Attributskombinationen erfordern.  
 - **Initiative und Runden:** Jeder Kampf beginnt mit einem Initiativwurf, gefolgt von rundenbasierten Aktionen, bei denen kritische Erfolge und Improvisationsmöglichkeiten die Geschichte dynamisch beeinflussen.  
-
-Dieses System verbindet taktisches Vorgehen mit erzählerischer Freiheit – ideal für eine Welt, in der Worte genauso mächtig sind wie Schwerter und Kreativität den Unterschied zwischen Sieg und Niederlage ausmachen kann.
-
-Welche spektakulären Momente oder kreativen Ideen sich aus dieser Kombination ergeben, liegt in der Hand der Spieler und des Spielleiters – und macht jedes Spiel zu einem einzigartigen Kapitel in der unendlichen Geschichte von Zamonien.
