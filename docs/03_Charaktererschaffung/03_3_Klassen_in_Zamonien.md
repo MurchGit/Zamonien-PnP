@@ -1,6 +1,7 @@
-### 3.3. Übersicht der Klassen in Zamonien
+## 3.3. Übersicht der Klassen in Zamonien
 
-Neben der Rassenwahl bestimmt die Klasse maßgeblich den Weg und die Fähigkeiten deines Charakters:
+> [!IMPORTANT]
+>Neben der Rassenwahl bestimmt die Klasse maßgeblich den Weg und die Fähigkeiten deines Charakters:
 
 #### **Abenteurer**
 - **Beschreibung:** Der Alleskönner, der mit Mut, Improvisationstalent und körperlicher Stärke die Mysterien Zamonien’s erkundet.  
@@ -15,23 +16,28 @@ Neben der Rassenwahl bestimmt die Klasse maßgeblich den Weg und die Fähigkeite
 - **Spezialfähigkeiten:** Bonus auf Mut, Stärke und Geschicklichkeit; Detektionssinn für Okkultes und verbesserte Resistenz gegenüber finsteren Einflüssen.
 
 #### **Schicksalstänzer**
-- **Beschreibung:** Seltene Gestaltwandler, die sich in andere Formen verwandeln können – ob Tier oder gar ein lebendiges Gedicht.  
-- **Spezialfähigkeiten:** Variable Boni, die je nach angenommener Form variieren; hohe Anpassungsfähigkeit, überraschende taktische Optionen im Kampf und bei Rätseln.
-
-#### **Buchlinge**
--  **Beschreibung:** Kleine, zierliche Wesen mit papyrusartiger Haut und tintenblauen Augen. Ihre Erscheinung wirkt wie lebendige, vergilbte Buchseiten. Sie sind tief in Bibliotheken und Archiven verwurzelt und leben von der Magie des geschriebenen Wortes, und die Magie der Literatur – ideal für Spieler, die ihren Charakter als lebendige Feder der Geschichte erleben möchten.  
-- **Spezialfähigkeiten:** - **Wortmagie:** Einmal pro Abenteuer können sie einen misslungenen Wurf mit einer kreativen narrative Wendung in einen Erfolg umwandeln.  
-- **Lesende Eingebung:** Beim Lösen von Rätseln oder beim Entziffern alter Schriften erhalten sie Bonuswürfe.
+- **Hintergrund und Kultur:**  
+   Zwischen den Ebenen von Traum und Wirklichkeit angesiedelt, sind die Schicksalstänzer Wesen, die sich mühelos in die surrealen Gefilde Zamonien bewegen. Ihre Existenz ist geprägt von mystischen Visionen und einem fast unwirklichen Charme.
+- **Typische Merkmale:**  
+   Zarte, fast ätherische Erscheinungen, oft von schimmerndem Licht umgeben und mit einem Hauch von Melancholie.
+- **Spezialfähigkeiten**  
+  - **Visionäre Einsichten:** Traumwandler können in entscheidenden Momenten durch gelungene Schlagfertigkeit-Proben Einblicke in verborgene Ereignisse oder zukünftige Gefahren erhalten – ein Vorteil, der das Team strategisch unterstützen kann.
+- **Sonderregeln:**  
+  Ihre besondere Verbindung zu den Ebenen des Unbewussten erlaubt es dem Spielleiter, in kritischen Storymomenten surreale, narrative Nebenhandlungen einzuflechten, die die gesamte Kampagne in mystische Bahnen lenken.
 
 #### **Dimensionslochreisende** 
-- **Beschreibung:** Flüchtige, veränderliche Wesen, die an den Rändern der Realität zwischen Dimensionen wandern. Ihre Erscheinung ist schimmernd und ständig im Wandel, was ihre unberechenbare Natur unterstreicht. Sie repräsentieren das Unbekannte, die unendlichen Möglichkeiten des Zufalls und die chaotische Schönheit alternativer Realitäten, die jederzeit in das Abenteuer einfließen können.
+- **Beschreibung:** Die Dimensionslochreisenden sind Wesen, die zwischen den Ecken und Kanten der Realität wandern. Ihr Dasein ist geprägt von den Erfahrungen, die sie an den Durchgängen in andere Dimensionen sammeln – dort, wo Logik oft den Gesetzen der Physik weicht und Zufälligkeit als Grundprinzip herrscht. Ihre Herkunft ist so mysteriös wie die Risse, durch die sie reisen, und ihre Kultur basiert auf der Akzeptanz des Ungewissen und der Freude an permanentem Wandel.
+- **Typische Merkmale:**  Ihre Erscheinung ist oftmals flüchtig und veränderlich. Mal wirken sie als schimmernde Silhouetten, mal als facettenreiche, fast transluzente Wesen, deren Konturen ständig im Fluss sind.  
+- **Kulturelle Besonderheiten:** Sie pflegen eigene Riten, die auf dem Erleben unterschiedlicher Dimensionen beruhen – etwa das „Feiern des Rissensprungs“, bei dem jede erfolgreiche Passage in einen neuen Bereich der Realität als kreativer Triumph gewertet wird.
 - **Spezialfähigkeiten:** 
   - **Dimensionssprung:** Einmal pro Begegnung können sie sich oder Teile ihres Umfelds teleportieren, um gefährliche Situationen zu entschärfen oder taktische Vorteile zu erlangen.  
   - **Zufallsblick:** Sie spüren an entscheidenden Momenten zukünftige Wendungen und erhalten zusätzliche Boni bei Schicksals- und Verstandswürfen.
-- **Wortmagie:** Einmal pro Abenteuer können sie einen misslungenen Wurf mit einer kreativen narrative Wendung in einen Erfolg umwandeln.  
-- **Lesende Eingebung:** Beim Lösen von Rätseln oder beim Entziffern alter Schriften erhalten sie Bonuswürfe.
+  - **Wortmagie:** Einmal pro Abenteuer können sie einen misslungenen Wurf mit einer kreativen narrative Wendung in einen Erfolg umwandeln.  
+  - **Lesende Eingebung:** Beim Lösen von Rätseln oder beim Entziffern alter Schriften erhalten sie Bonuswürfe.
+ - **Erscheinungsform und Wirklichkeit:** Ihre flüchtige Natur führt gelegentlich zu narrativen Überraschungen. Der Spielleiter kann diese Eigenschaften nutzen, um unerwartete Szeneriewechsel oder subtile Raum-Zeit-Anomalien in das Abenteuer einfließen zu lassen – stets im Geiste der zamonischen Unvorhersehbarkeit.
 
-### **Magier des Geschichtenspinnens**
+
+#### **Magier des Geschichtenspinnens**
 - **Kurzbeschreibung:** Magier des Geschichtenspinnens schöpfen ihre Kraft aus uralten Legenden und kraftvollen Erzählungen. Sie verstehen es, Worte in magische Ströme zu verwandeln und Realität durch narrative Rituale zu beeinflussen. Ihre Präsenz am Schlachtfeld ist gleichzeitig intellektuell und künstlerisch – sie formen den Kampfgeschehen mit scharfzüngigen Versen und improvisierten Zauberreihen.
 - **Spezialfähigkeiten:**  
  - **Erzählfluss:**  
@@ -44,26 +50,20 @@ Neben der Rassenwahl bestimmt die Klasse maßgeblich den Weg und die Fähigkeite
 
 ---
 
-Diese Klasse bietet eine radikal andere Herangehensweise an Magie – nicht nur als abstraktes System, sondern als lebendiges Erzählen, das die Realität in Zamonien direkt berührt. Spieler, die sich als Magier des Geschichtenspinnens versuchen, haben die Freiheit, spannende Wortgefechte zu führen und mit kreativen, narrativen Mausklicks den Verlauf von Konflikten entscheidend zu beeinflussen.
-
-Beim Stufenaufstieg (zum Beispiel in 5- oder 10-Stufen-Systemen) erhalten Charaktere neue Fertigkeiten und können bestehende Kräfte intensivieren. Dabei empfiehlt es sich, individuelle Talentbäume zu erstellen, die den erzählerischen Charakter der jeweiligen Klasse widerspiegeln.
-
----
-
-## 3.3.1 Klassen und ihre Besonderheiten
+### 3.3.1 Klassen und ihre Besonderheiten
 
 | **Klasse**                         | **Mut** | **Klugheit** | **Geschicklichkeit** | **Orm**      | **Magiekund** | **Glück** |
 |------------------------------------|---------|--------------|----------------------|--------------|---------------|-----------|
 | **Abenteurer**                     | +1      | 0            | +1                   | 0            | 0             | +1        |
 | **Schreibmeister**                 | 0       | +1           | 0                    | +2           | 0             | 0         |
 | **Dämonenjäger**                   | +2      | 0            | +1                   | 0            | 0             | 0         |
-| **Schicksalstänzer**               | 0       | 0            | +2                   | 0            | 0             | +1        |
-| **Buchling**                       | -1      | 2            | 0                    | +1           | +1            | 0         |
+| **Schicksalstänzer**               | -2      | +1           | +2                   | 0            | 0             | +1        |
 | **Dimensionslochreisender**        | +2      | -1           | 0                    | 0            | 0             | 2        |
 | **Magier des Geschichtenspinnens** | -1      | +2           | 0                    | 0            | +2            | 0         |
 
 ---
 
-**Hinweise zur Verwendung:**  
+> [!TIP]
+> **Hinweise zur Verwendung:**  
 - Diese Boni werden bei relevanten Würfen (zum Beispiel im Kampf, bei Verhandlungen oder bei magischen Ritualen) zu den Basiswürfen addiert.  
 - Entscheide in Konflikten und Auseinandersetzungen, welche Attribute zur Szene passen – beispielsweise kommen für physische Angriffe die Boni von Mut und Geschicklichkeit zum Tragen, während in einem erzählerischen Duell Klugheit, Magiekund und Glück entscheidend sein können.

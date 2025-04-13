@@ -1,6 +1,8 @@
 ## 6. Orte und Schauplätze
 
-Zamonien ist nicht nur ein Land der Charaktere, sondern auch ein Land der Orte – Städte, Bibliotheken, Labyrinthe und verlassene Ruinen bilden die Kulisse für epische Abenteuer. Einige zentrale Schauplätze:
+> [!NOTE]
+> Zamonien ist nicht nur ein Land der Charaktere, sondern auch ein Land der Orte – Städte, Bibliotheken, Labyrinthe und verlassene Ruinen bilden die Kulisse für epische Abenteuer. Einige zentrale Schauplätze:
+![TreeGrp](https://github.com/MurchGit/Zamonien-PnP/blob/Regelwerk/Assets/GUICute/Tree_Evergreen03.png)![Haus](https://github.com/MurchGit/Zamonien-PnP/blob/Regelwerk/Assets/GUICute/House03_Red.png)![TreeGrp2](https://github.com/MurchGit/Zamonien-PnP/blob/Regelwerk/Assets/GUICute/Tree02.png)
 
 ## 6.0. Übersicht
 

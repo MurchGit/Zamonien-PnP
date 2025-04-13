@@ -9,3 +9,13 @@ Die Vielfalt hört jedoch nicht bei den Klassen auf. Die Charaktere stammen aus 
 Die gefährlichen und faszinierenden Schauplätze Zamonien‘s – von der verfluchten Bibliothek über den labyrinthischen Urwald bis hin zu den rätselhaften Tempeln, dem bizarren Markt und der endlosen Wüste – laden dazu ein, Geheimnisse zu lüften und alten Zauber neu zu entdecken. Ob es darum geht, uralte Texte zu dechiffrieren, magische Ritualen zu folgen oder sich epischen Konfrontationen zu stellen: Jede Entscheidung, jeder Würfelwurf sowie jede improvisierte Erzählung zählt.
 
 Dieses Spiel ist mehr als ein Kampf um Sieg oder Niederlage – es ist ein lebendiges Epos, in dem jeder Spieler mit Kreativität und Mut dazu beiträgt, die Landschaft der Legenden zu formen. Trete ein in die Welt von Zamonien, und schreibe deinen eigenen Vers in der unendlichen Geschichte dieser magischen Welt. Viel Spaß auf deinem Abenteuer!
+
+
+
+
+
+Ein herzliches Dankeschön an Walter Moers für die Erschaffung des wundersamen und faszinierenden Universums Zamonien! Mit seiner unvergleichlichen Fantasie und seinem einzigartigen Erzählstil hat er eine Welt erschaffen, die uns inspiriert, zum Staunen bringt und zum Träumen einlädt. Zamonien ist ein Geschenk an alle, die Freude an außergewöhnlichen Geschichten und lebendigen Charakteren haben.
+
+Ebenso ein großer Dank an die Gemeinschaft von [zamonien.fandom.com](https://zamonien.fandom.com/) für das Sammeln und Teilen wertvoller Informationen. 
+
+Danke, dass ihr uns allen erlaubt, die Magie von Zamonien zu erleben und darin einzutauchen.

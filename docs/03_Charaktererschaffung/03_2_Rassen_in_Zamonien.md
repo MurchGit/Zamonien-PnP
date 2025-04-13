@@ -2,15 +2,10 @@
 
 In Zamonien sind Rassen weit mehr als nur biologische Kategorien – sie sind Ausdruck der ungezähmten Schlagfertigkeit, des eigenwilligen Humors und der mystischen Traditionen, die das Land durchziehen. Jede Rasse verfügt über eigene kulturelle Hintergründe, einzigartige Fähigkeiten und spezifische Vor- oder Nachteile, die das Zusammenspiel von Charakteren im Spiel besonders abwechslungsreich machen. Dieses Regelwerk schafft die Grundlage dafür, individuelle Identitäten zu entwickeln und gleichzeitig den erzählerischen Geist Zamonien zu würdigen.
 
----
-
-## II. Allgemeine Mechaniken für Rassen
-
-
 
 ---
 
-## III. Rassen und ihre Besonderheiten
+# III. Rassen und ihre Besonderheiten
 
 
 ### 1. Die Zamonier
@@ -33,6 +28,7 @@ In Zamonien sind Rassen weit mehr als nur biologische Kategorien – sie sind Au
 - **Vorteile:** Leichter Bonus auf Mut und Klugheit, flexible Rollenwahl.  
 - **Schwächen:** Keine besonderen Magie-Affinitäten.
 
+
 ### 2. Die Igelflinken
 
 - **Hintergrund und Kultur:**  
@@ -53,48 +49,8 @@ In Zamonien sind Rassen weit mehr als nur biologische Kategorien – sie sind Au
 
 - **Schwächen**
 
-### 3. Die Rohkräftigen Ormfresser
 
-- **Hintergrund und Kultur:**  
-  Diese kampferprobten, naturverbundenen Wesen genießen in Zamonien legendären Ruf. Ihr Name verweist auf ihre nahezu archaische Kraft und die enge Verbindung zur Natur – manchmal auch zur rohen, ungezähmten Energie des Orm.
-- **Typische Merkmale:**  
-  Stämmige Körper, ausgeprägte muskulöse Attribute und ein raues, oft einschüchterndes Äußeres.
-
-- **Attributmodifikatoren:**  
-  - +2 auf Mut  
-  - −1 auf Magiekund (nicht immer geübt in magischen Gefechten)
-- **Rassenfertigkeiten:**  
-  - **Urinstinkt:** Bei besonders gefährlichen Situationen kann ein Rohkräftiger Ormfresser durch seine innere Kraftanschub einen zusätzlichen Wurfbonus erhalten oder sogar kurzfristig übernatürliche Kräfte entfalten, die Gegner zurückstoßen.
-
-- **Sonderregeln:**  
-  Aufgrund ihrer Naturverbundenheit können Ormfresser auf Spezialbonusse zurückgreifen, wenn sie in der freien Natur (beispielsweise in uralten Wäldern oder bei Naturphänomenen) agieren.
-
-- **Vorteile**
-
-- **Schwächen**
-
-### 4. Die Traumwandler
-
-- **Hintergrund und Kultur:**  
-  Zwischen den Ebenen von Traum und Wirklichkeit angesiedelt, sind die Traumwandler Wesen, die sich mühelos in die surrealen Gefilde Zamonien bewegen. Ihre Existenz ist geprägt von mystischen Visionen und einem fast unwirklichen Charme.
-- **Typische Merkmale:**  
-  Zarte, fast ätherische Erscheinungen, oft von schimmerndem Licht umgeben und mit einem Hauch von Melancholie.
-
-- **Attributmodifikatoren:**  
-  - **+2 auf Magiekund**
-  - **+1 auf Schicksalsfugend** 
-  - **−2 auf Mut:** (physisch weniger robust als andere Spezies)
-- **Rassenfertigkeiten**  
-  - **Visionäre Einsichten:** Traumwandler können in entscheidenden Momenten durch gelungene Schlagfertigkeit-Proben Einblicke in verborgene Ereignisse oder zukünftige Gefahren erhalten – ein Vorteil, der das Team strategisch unterstützen kann.
-
-- **Sonderregeln:**  
-  Ihre besondere Verbindung zu den Ebenen des Unbewussten erlaubt es dem Spielleiter, in kritischen Storymomenten surreale, narrative Nebenhandlungen einzuflechten, die die gesamte Kampagne in mystische Bahnen lenken.
-
-- **Vorteile**
-
-- **Schwächen**
-
-### 5. Die Buchlinge
+### 3. Die Buchlinge
 
 **Hintergrund und Kultur:**  
 Die Buchlinge sind Wesen, die gleichsam wie lebendige Folianten und wandelnde Geschichten erscheinen. In den staubigen Ecken uralter Bibliotheken oder in den geheimen Archiven Zamonien zu Hause, verbinden sie die Macht des geschriebenen Wortes mit einer beinahe magischen Kreativität. Sie pflegen Traditionen, die sich um das geschriebene Wort und die Kunst des Erzählens ranken, und ihre Legenden sind oft kunstvoll überliefert und voller versteckter Weisheiten.
@@ -116,30 +72,8 @@ Buchlinge erscheinen als kleine, zierliche Kreaturen mit papyrusartigen Hautpart
 - **Vorteile:** Stark ausgeprägte Ästhetik und Magiekund; besondere literarische Talente, die einzigartige Zauberkraft verleihen.  
 - **Schwächen:** Körperlich fragil und in direkten physischen Auseinandersetzungen oft benachteiligt.
 
-### 6. Die Dimensionslochreisenden
 
-**Hintergrund und Kultur:**  
-Die Dimensionslochreisenden sind Wesen, die zwischen den Ecken und Kanten der Realität wandern. Ihr Dasein ist geprägt von den Erfahrungen, die sie an den Durchgängen in andere Dimensionen sammeln – dort, wo Logik oft den Gesetzen der Physik weicht und Zufälligkeit als Grundprinzip herrscht. Ihre Herkunft ist so mysteriös wie die Risse, durch die sie reisen, und ihre Kultur basiert auf der Akzeptanz des Ungewissen und der Freude an permanentem Wandel.
-
-**Typische Merkmale:**  
-Ihre Erscheinung ist oftmals flüchtig und veränderlich. Mal wirken sie als schimmernde Silhouetten, mal als facettenreiche, fast transluzente Wesen, deren Konturen ständig im Fluss sind.  
-- **Kulturelle Besonderheiten:** Sie pflegen eigene Riten, die auf dem Erleben unterschiedlicher Dimensionen beruhen – etwa das „Feiern des Rissensprungs“, bei dem jede erfolgreiche Passage in einen neuen Bereich der Realität als kreativer Triumph gewertet wird.
-**Attributmodifikatoren:**  
-- **+2 auf Schicksalsfugend:** Ihre ständige Nähe zu unvorhersehbaren Dimensionen schärft ihren Sinn für das Schicksal und lässt sie den Zufall als Verbündeten nutzen.  
-- **+1 auf Verstand:** Die Erfahrungen in alternativen Realitäten schärfen ihren analytischen Blick für komplexe Zusammenhänge.  
-- **−1 auf Orm:** Aufgrund ihrer eher flüchtigen, instabilen Körper haben sie einen Schwund an roher physischer Kraft.  
-**Rassenfertigkeiten:**  
-- **Dimensionssprung:** Einmal pro Begegnung können die Dimensionslochreisenden die Realität kurzzeitig „umrissen“ und sich – oder einen Teil ihres Umfelds – teleportieren. Dies erlaubt es, gefährliche Situationen zu entschärfen oder taktische Vorteile zu erlangen.  
-- **Zufallsblick:** Dank ihres unkonventionellen Verständnisses der Realität können sie in entscheidenden Momenten verborgene Zusammenhänge oder kommende Wendungen erspüren, was ihnen bei Schicksals- oder Verstandswürfen zusätzliche Boni beschert.
-
-**Sonderregeln:**  
-- **Erscheinungsform und Wirklichkeit:** Ihre flüchtige Natur führt gelegentlich zu narrativen Überraschungen. Der Spielleiter kann diese Eigenschaften nutzen, um unerwartete Szeneriewechsel oder subtile Raum-Zeit-Anomalien in das Abenteuer einfließen zu lassen – stets im Geiste der zamonischen Unvorhersehbarkeit.
-
-- **Vorteile**
-
-- **Schwächen**
-
-### 7. Buntbär
+### 4. Buntbär
 
 **Hintergrund und Kultur:**  
 Buntbären stammen aus den zauberhaften Wäldern und sanften Hügeln Zamonien, wo Natur und Magie in einer ständigen Symbiose existieren. In alten Legenden werden sie als Beschützer der Lebenskraft und als Hüter der natürlichen Farbenpracht verehrt. In ihrer Stammesgesellschaft herrscht ein tiefes Verständnis für die natürlichen Zyklen und den Fluss der Elemente. 
@@ -164,26 +98,46 @@ Markante Augen und ein freundliches, aber bestimmtes Gesicht runden das Bild die
 
 - **Schwächen**
 
+
+### 5. Die Rohkräftigen Ormfresser
+
+- **Hintergrund und Kultur:**  
+  Diese kampferprobten, naturverbundenen Wesen genießen in Zamonien legendären Ruf. Ihr Name verweist auf ihre nahezu archaische Kraft und die enge Verbindung zur Natur – manchmal auch zur rohen, ungezähmten Energie des Orm.
+- **Typische Merkmale:**  
+  Stämmige Körper, ausgeprägte muskulöse Attribute und ein raues, oft einschüchterndes Äußeres.
+
+- **Attributmodifikatoren:**  
+  - +2 auf Mut  
+  - −1 auf Magiekund (nicht immer geübt in magischen Gefechten)
+- **Rassenfertigkeiten:**  
+  - **Urinstinkt:** Bei besonders gefährlichen Situationen kann ein Rohkräftiger Ormfresser durch seine innere Kraftanschub einen zusätzlichen Wurfbonus erhalten oder sogar kurzfristig übernatürliche Kräfte entfalten, die Gegner zurückstoßen.
+
+- **Sonderregeln:**  
+  Aufgrund ihrer Naturverbundenheit können Ormfresser auf Spezialbonusse zurückgreifen, wenn sie in der freien Natur (beispielsweise in uralten Wäldern oder bei Naturphänomenen) agieren.
+
+- **Vorteile**
+
+- **Schwächen**
+
 ---
 
-## 6. Rassen und deren einzigartige Boni
+# 6. Rassen und deren einzigartige Boni
 
-Die Rassen verleihen weitere, thematisch passende Modifikatoren:
+> [!TIP]
+> Die Rassen verleihen weitere Modifikatoren:
 
 | **Rasse**                         | **Typische Boni**                                            |
 |-----------------------------------|--------------------------------------------------------------|
 | **Die Zamonier**                  | +1 auf alle Attribute                                        |
 | **Die Igelfinken**                | +2 Geschicklichkeit, +1 Glück. -1 Mut                        |
-| **Die Rohkräftigen Ormfresser**   | +2 Mut, +1 Geschicklichkeit                                  |
-| **Die Traumwandler**              | +2 Magiekund, -1 Orm,                                        |
 | **Die Buchlinge**                 | +2 Orm, +1 Magiekund                                         |
-| **Die Dimensionslochreisenden**   | +2 Schicksalsfugend, +1 Verstand, -1 Orm                     |
 | **Die Buntbären**                 | +1 Mut, +1 Gewandtheit                                       |
+| **Die Rohkräftigen Ormfresser**   | +2 Mut, +1 Geschicklichkeit                                  |
 
 
 ---
 
-## IV. Template
+# IV. Template
 
 - **Hintergrund und Kultur:**  
 
