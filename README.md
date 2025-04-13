@@ -10,6 +10,7 @@ Dieses Repository umfasst ein Regelbuch, welches dich fantastische und literaris
    - [Attributsystem](docs/03_Charaktererschaffung/03_1_Attributsystem.md)
    - [Rassen in Zamonien](docs/03_Charaktererschaffung/03_2_Rassen_in_Zamonien.md)
    - [Klassen in Zamonien](docs/03_Charaktererschaffung/03_3_Klassen_in_Zamonien.md)
+   - [Charakterbogen](docs/03_Charaktererschaffung/03_4_Charakterbogen.md)
 4. [Magiesystem und besondere Fähigkeiten](docs/04_Magiesystem_und_Besondere_Faehigkeiten.md)
 5. [Ausrüstung und Gegenstände](docs/05_Ausruestung_und_Gegenstaende.md)
 6. [Orte und Schauplätze](docs/06_Orte_und_Schauplaetze.md)
