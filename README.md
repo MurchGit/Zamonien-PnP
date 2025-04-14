@@ -5,7 +5,7 @@ Dieses Repository umfasst ein Regelbuch, welches dich fantastische und literaris
 
 ## Inhaltsübersicht
 1. [![Einführung & Hintergrund](/Assets/headericons/hBanner018.png)](docs/02_Spielmechaniken_und_Wuerfelsystem/01_Einfuehrung_und_Hintergrund.md)
-2. [Spielmechaniken und Würfelsystem](/Assets/headericons/hBanner017.png)
+2. [![Spielmechaniken und Würfelsystem](/Assets/headericons/hBanner017.png)](docs/02_Spielmechaniken_und_Wuerfelsystem/02_Spielmechaniken_und_Wuerfelsystem.md)
 3. ![Charaktererschaffung ](/Assets/headericons/hBanner016.png)
    - [![Attributsystem](/Assets/headericons/hBanner019.png)](docs/03_Charaktererschaffung/03_1_Attributsystem.md)
    - [![Rassen](/Assets/headericons/hBanner020.png)](docs/03_Charaktererschaffung/03_2_Rassen_in_Zamonien.md)

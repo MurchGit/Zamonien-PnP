@@ -3,7 +3,7 @@
 > [!IMPORTANT]
 > Der bizarre Markt von Zamonien liegt in einem kreisförmigen Areal, dessen Herzstück ein leuchtender, magischer Brunnen ist. Von dort aus strömen mehrere Themensphären in alle Richtungen und bieten unterschiedliche Schauplätze – von opulenten Marktplätzen über verwinkelte Gassen bis hin zu geheimen Schattenwegen. Dieser Aufbau sorgt dafür, dass die Spieler sowohl offene Begegnungen als auch versteckte Quests erleben, während sie durch eine Welt voller Magie, Rätsel und exzentrischer Charaktere wandern.
 
-![Map-bizarrerMarkt](/Assets/Maps/Ruestung/bizarrerMarktVonZamonien.png)
+![Map-bizarrerMarkt](/Assets/Maps/bizarrerMarktVonZamonien.png)
 ---
 
 ## 2. Detaillierte Zonenbeschreibung
