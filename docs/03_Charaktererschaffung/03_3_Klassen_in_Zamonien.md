@@ -55,10 +55,10 @@
 | **Klasse**                         | **Mut** | **Klugheit** | **Geschicklichkeit** | **Orm**      | **Magiekund** | **Glück** |
 |------------------------------------|---------|--------------|----------------------|--------------|---------------|-----------|
 | **Abenteurer**                     | +1      | 0            | +1                   | 0            | 0             | +1        |
-| **Schreibmeister**                 | 0       | +1           | 0                    | +2           | 0             | 0         |
-| **Dämonenjäger**                   | +2      | 0            | +1                   | 0            | 0             | 0         |
-| **Schicksalstänzer**               | -2      | +1           | +2                   | 0            | 0             | +1        |
-| **Dimensionslochreisender**        | +2      | -1           | 0                    | 0            | 0             | 2        |
+| **Schreibmeister**                 | -1      | +1           | 0                    | +2           | 0             | 0         |
+| **Dämonenjäger**                   | +2      | -1           | +1                   | 0            | 0             | 0         |
+| **Schicksalstänzer**               | -2      | 0            | +2                   | 0            | 0             | +1        |
+| **Dimensionslochreisender**        | +1      | -1           | 0                    | -1           | 0             | +2        |
 | **Magier des Geschichtenspinnens** | -1      | +2           | 0                    | 0            | +2            | 0         |
 
 ---
