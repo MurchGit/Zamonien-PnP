@@ -4,9 +4,9 @@ Willkommen im Repository des Zamonien Regelwerks!
 Dieses Repository umfasst ein Regelbuch, welches dich fantastische und literarisch-magische Abenteuer in der Welt von Zamonien beschreibt und erleben lässt.
 
 ## Inhaltsübersicht
-1. [![Einführung & Hintergrund](/Assets/headericons/hBanner018.png)](docs/02_Spielmechaniken_und_Wuerfelsystem/01_Einfuehrung_und_Hintergrund.md)
+1. [![Einführung & Hintergrund](/Assets/headericons/hBanner018.png)](docs/01_Einfuehrung_und_Hintergrund/01_Einfuehrung_und_Hintergrund.md)
 2. [![Spielmechaniken und Würfelsystem](/Assets/headericons/hBanner017.png)](docs/02_Spielmechaniken_und_Wuerfelsystem/02_Spielmechaniken_und_Wuerfelsystem.md)
-3. ![Charaktererschaffung ](/Assets/headericons/hBanner016.png)
+3. ![Charaktererschaffung](/Assets/headericons/hBanner016.png)
    - [![Attributsystem](/Assets/headericons/hBanner019.png)](docs/03_Charaktererschaffung/03_1_Attributsystem.md)
    - [![Rassen](/Assets/headericons/hBanner020.png)](docs/03_Charaktererschaffung/03_2_Rassen_in_Zamonien.md)
    - [![Klassen](/Assets/headericons/hBanner021.png)](docs/03_Charaktererschaffung/03_3_Klassen_in_Zamonien.md)
@@ -14,10 +14,12 @@ Dieses Repository umfasst ein Regelbuch, welches dich fantastische und literaris
 4. [![Magiesystem & Besondere Fähigkeiten](/Assets/headericons/hBanner008.png)](docs/04_Magiesystem_und_Besondere_Faehigkeiten/04_Magiesystem_und_Besondere_Faehigkeiten.md)
 5. [![Ausrüstung & Gegenstände](/Assets/headericons/hBanner009.png)](docs/05_Ausruestung_und_Gegenstaende/05_Ausruestung_und_Gegenstaende.md)
 6. [![Orte und Schauplätze](/Assets/headericons/hBanner010.png)](docs/06_Orte_und_Schauplaetze/06_Orte_und_Schauplaetze.md)
-7. [![Kampf- und Konfliktsystem](/Assets/headericons/hBanner011.png)](docs/07_Kampf_und_Konfliktsystem/07_Kampf_und_Konfliktsystem.md)
-7. [![Spielleiteranweisungen](/Assets/headericons/hBanner012.png)](docs/08_Spielleiteranweisungen/08_Spielleiteranweisungen/08_Spielleiteranweisungen.md)
+
+   -[Der bizarre Markt von Zamonien](/docs/06_Orte_und_Schauplaetze/06_6_Der_bizarre_Markt_von_Zamonien.md)
+8. [![Kampf- und Konfliktsystem](/Assets/headericons/hBanner011.png)](docs/07_Kampf_und_Konfliktsystem/07_Kampf_und_Konfliktsystem.md)
+7. [![Spielleiteranweisungen](/Assets/headericons/hBanner012.png)](docs/08_Spielleiteranweisungen/08_Spielleiteranweisungen.md)
 9. [![Kampagnengestaltung und Abenteuerideen](/Assets/headericons/hBanner013.png)](/docs/09_Kampagnengestaltung_und_Abenteuerideen/Abenteuer/abenteuer.md)
-10. [![Anhang: Beispielcharaktere](/Assets/headericons/hBanner014.png)](docs/10_Anhang_Beispielcharaktere_Gegenstaende_und_Orte/10_Anhang_Beispielcharaktere_Gegenstaende_und_Orte.md)
+10. [![Anhang: Beispielcharaktere](/Assets/headericons/hBanner014.png)](docs/10_Anhang_Beispielcharaktere/10_Anhang_Beispielcharaktere.md)
 
  
 ## Rassen- & Attributregelwerk – Übersicht
@@ -98,22 +100,22 @@ Die Spieler entwickeln ihren Helden mit einer frei verteilbaren Punktzahl (z. 
 ## 3. Klassenmodifikatoren – Kurzzitate
 
 > [!NOTE]
-> Hier einige prägnante Zitate, die die Rassenattribute zusammenfassen:
+> Hier einige prägnante Zitate, die die Klassenattribute zusammenfassen:
 
 - **Abenteuer:**  
   *„Mit +1 auf Mut(MUT) und +1 auf Geschicklichkeit sind sie für einige Situationen auf ihren Reisen gewappnet – ihre dennoch teils arglose Abenteuerlust und scheinbar auswegslosen Situationen zu entrinnen spiegelt sich in +1 Glück wieder.“*
 
-- **Schreibermeister:**  
-  *„Mit fließender Tinte und fein abgestimmtem Geist folgen +2 Verstand und +1 Schlagfertigkeit, auch wenn sie etwas von ihrem Mut (−1) opfern.“*
+- **Schreibmeister:**  
+  *„Mit fließender Tinte und fein abgestimmtem Geist folgen +2 Orm und +1 Klugheit, auch wenn sie etwas von ihrem Mut (−1) einbüßen.“*
 
 - **Dämonenjäger:**  
-  *„Mit furchtlosem Herz (+2 Mut) und kraftvollem Schlag (+1 Orm) begegnen sie dem Bösen, wenn auch −1 Fantasie sie in düstere Gefilde führt.“*
+  *„Mit furchtlosem Herz (+2 Mut) und kraftvollem Schlag (+1 Geschicklichkeit) begegnen sie dem Bösen, wenn auch −1 Klugheit sie in düstere Gefilde führt.“*
 
 - **Schicksalstänzer:**  
-  *„Geschmeidig und listig, mit +2 Geschicklichkeit und +1 Glück, doch ein Hauch von −1 Verstand begleitet ihre Tücke.“*
+  *„Geschmeidig, flink und listig, mit +2 Geschicklichkeit und +1 Glück, doch ein Hauch von −2 Mut begleitet ihre Tücke.“*
 
 - **Dimensionslochreisende:**  
-  *„Sie pendeln zwischen den Welten: +2 Schicksalsfugend und +1 Verstand, jedoch schwankende physische Präsenz bei −1 Orm“*
+  *„Sie pendeln zwischen den Welten: +2 Glück und +1 Mut, jedoch schwankende physische Präsenz bei −1 Orm. Aufgrund ihrer natürlichen Neigung sich in Dimensionslöcher zu stürzen erhalten sie einen Malus von -1 auf Klugheit.“*
 
 - **Magier des Geschichtenspinnens:**  
   *„Mit +2 Klugheit und +2 Magiekund pulsiert ihre magische Kraft, während ein Funken -1 Mut ihre kampfunerprobte Natur beschattet.“*
