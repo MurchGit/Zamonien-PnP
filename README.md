@@ -1,4 +1,4 @@
-#  ![zPnP Regelwerk](/Assets/headericons/hIcon003.png)
+#  ![zPnP Regelwerk](/Assets/headericons/hBanner003.png)
 
 Willkommen im Repository des Zamonien Regelwerks!  
 Dieses Repository umfasst ein Regelbuch, welches dich fantastische und literarisch-magische Abenteuer in der Welt von Zamonien beschreibt und erleben lässt.
