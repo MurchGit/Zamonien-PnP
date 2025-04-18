@@ -78,9 +78,9 @@
 - **Beschreibung:**  
   Bestimmte Abschnitte der Karte sind für intensive Kampfherausforderungen reserviert. Hier sammeln sich mächtige Gegner und gefährliche Umwelteinflüsse. 
   - **Gegner:**  
-    - **![Schattenlibrarier](/Assets/Gegner/schattenlibrarier.png) Schattenlibrarier:** Geisterhafte Wächter, die jeden Fehltritt rigoros bestrafen.  
-    - **Lebendige Pergamente:** Sarkastische, kleine Geister aus uralten Schriftrollen, die unablässig mit unwiederlegbaren Argumenten angreifen. (**Orm** (ORM) & **Schlagfertigkeit** (SCH) sind in diesen Kämpfen von Vorteil)
-    - **![BuerokratischerAlptraumwaechter](/Assets/Gegner/bueAlptraumwaechter.png) Bürokratische Alptraumwächter:** erscheinen nur in der Bürokratischen Alptraumagentur.  
+    - **![Schattenlibrarier](/Assets/Gegner/verfluchteBibliothek/schattenlibrarier.png) Schattenlibrarier:** Geisterhafte Wächter, die jeden Fehltritt rigoros bestrafen.  
+    - **![Linguistische Pergamente](/Assets/Gegner/verfluchteBibliothek/lingPergament.png) Linguistische Pergamente:** Sarkastische, kleine Geister aus uralten Schriftrollen, die unablässig mit unwiederlegbaren Argumenten angreifen. (**Orm** (ORM) & **Schlagfertigkeit** (SCH) sind in diesen Kämpfen von Vorteil)
+    - **![BuerokratischerAlptraumwaechter](/Assets/Gegner/verfluchteBibliothek/buerWaechter.png) Bürokratische Alptraumwächter:** erscheinen nur in der Bürokratischen Alptraumagentur.  
   - **Fallen:** Neben Glyphenfallen existieren Zones, in denen mechanisch regulierte Fallen den Zugang zu wichtigen Informationen blockieren.
 
 
@@ -100,19 +100,20 @@
   - *Gegner:* Die Bürokratischen Alptraumwächter agieren als zusätzliche Gegner, die in diesem Sektor permanent patrouillieren und jeden unberechtigten Zugang mit überwältigender Präzision zu unterbinden versuchen.
 
 
-## Zusätzliche Ideen für den GM und die Abenteurer
-
-- **Dynamische Umgebungswechsel:**  
-  Lasse die verschiebbaren Regale und Gänge der Bibliothek auch in der Bürokratischen Alptraumagentur reagieren – vielleicht ändert sich das Layout plötzlich oder bestimmte Dokumente aktivieren mechanische Fallen, um Ablenkungen zu schaffen.
-
-- **Rätsel und Schriftkunst an den Wänden:**  
-  Integriere kryptische Inschriften in den langen Korridoren der Alptraumagentur, die Hinweise auf Geheimräume oder den Weg zur Entschärfung gefährlicher Fallen liefern.
-
-- **Atmosphärische Erzählungen:**  
-  Der uralte Bibliothekar oder andere geisterhafte NSCs können über die Ursprünge der Bürokratischen Alptraumagentur berichten – etwa Geschichten von ehemaligen Beamten, die durch ihre Besessenheit mit Ordnung verflucht wurden.
-
-- **Taktische Vorteile nutzen:**  
-  Durch die präzise, gitterartige Architektur können die Spieler Deckungen nutzen oder mithilfe korrekt ausgefüllter Formulare sogar temporär Einfluss auf die mechanischen Wächter nehmen, um Fluchtwege oder geheime Durchgänge zu öffnen.
-
-- **Verbindung zur Kampagnenwelt:**  
-  Die entdeckten Akten und Dokumente der Alptraumagentur können Hinweise auf größere mystische Verschwörungen oder versteckte Schätze liefern, die weit über die Grenzen der Bibliothek von Athenor hinausreichen.
+> [!TIP]
+>  ## **3. Ideen für den Spielleiter (GM) und die Abenteurer**  
+> 
+> ### **Dynamische Umgebung:**  
+> - Lasse die verschiebbaren Regale und Gänge der Bibliothek auch in der Bürokratischen Alptraumagentur reagieren – vielleicht ändert sich das Layout plötzlich oder bestimmte Dokumente aktivieren mechanische Fallen, um Ablenkungen zu schaffen.
+> 
+> ### **Rätsel und Schriftkunst an den Wänden:**  
+> - Integriere kryptische Inschriften in den langen Korridoren der Alptraumagentur, die Hinweise auf Geheimräume oder den Weg zur Entschärfung gefährlicher Fallen liefern.
+> 
+> ### **Atmosphärische Erzählungen:**  
+> - Der uralte Bibliothekar oder andere geisterhafte NSCs können über die Ursprünge der Bürokratischen Alptraumagentur berichten – etwa Geschichten von ehemaligen Beamten, die durch ihre Besessenheit mit Ordnung verflucht wurden.
+> 
+> ### **Taktische Vorteile nutzen:**  
+> - Durch die präzise, gitterartige Architektur können die Spieler Deckungen nutzen oder mithilfe korrekt ausgefüllter Formulare sogar temporär Einfluss auf die Wächter nehmen, um Fluchtwege oder geheime Durchgänge zu öffnen.
+> 
+> ### **Verbindung zur Kampagnenwelt:**  
+> - Die entdeckten Akten und Dokumente der Alptraumagentur können Hinweise auf größere mystische Verschwörungen oder versteckte Schätze liefern, die weit über die Grenzen der Bibliothek von Athenor hinausreichen.

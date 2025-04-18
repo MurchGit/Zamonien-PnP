@@ -15,9 +15,19 @@ Dieses Repository umfasst ein Regelbuch, welches dich fantastische und literaris
 5. [![Ausrüstung & Gegenstände](/Assets/headericons/hBanner009.png)](docs/05_Ausruestung_und_Gegenstaende/05_Ausruestung_und_Gegenstaende.md)
 6. [![Orte und Schauplätze](/Assets/headericons/hBanner010.png)](docs/06_Orte_und_Schauplaetze/06_Orte_und_Schauplaetze.md)
 
+
+   -[Die Verfluchte Bibliothek von Athenor](/docs/06_Orte_und_Schauplaetze/06_1_Die_verfluchte_Bibliothek_von_Athenor.md)
+   -[Die verlassene Wüste von Zamonien](/docs/06_Orte_und_Schauplaetze/06_2_Die_Verlassene_Wueste_von_Zamonien.md)
    -[Der bizarre Markt von Zamonien](/docs/06_Orte_und_Schauplaetze/06_6_Der_bizarre_Markt_von_Zamonien.md)
-8. [![Kampf- und Konfliktsystem](/Assets/headericons/hBanner011.png)](docs/07_Kampf_und_Konfliktsystem/07_Kampf_und_Konfliktsystem.md)
-7. [![Spielleiteranweisungen](/Assets/headericons/hBanner012.png)](docs/08_Spielleiteranweisungen/08_Spielleiteranweisungen.md)
+<<<<<<< HEAD
+
+
+=======
+   -[Die Verfluchte Bibliothek von Athenor](/docs/06_Orte_und_Schauplaetze/06_1_Die_verfluchte_Bibliothek_von_Athenor.md)
+>>>>>>> origin/Regelwerk
+
+7. [![Kampf- und Konfliktsystem](/Assets/headericons/hBanner011.png)](docs/07_Kampf_und_Konfliktsystem/07_Kampf_und_Konfliktsystem.md)
+8. [![Spielleiteranweisungen](/Assets/headericons/hBanner012.png)](docs/08_Spielleiteranweisungen/08_Spielleiteranweisungen.md)
 9. [![Kampagnengestaltung und Abenteuerideen](/Assets/headericons/hBanner013.png)](/docs/09_Kampagnengestaltung_und_Abenteuerideen/Abenteuer/abenteuer.md)
 10. [![Anhang: Beispielcharaktere](/Assets/headericons/hBanner014.png)](docs/10_Anhang_Beispielcharaktere/10_Anhang_Beispielcharaktere.md)
 
@@ -37,6 +47,7 @@ Die Spieler entwickeln ihren Helden mit einer frei verteilbaren Punktzahl (z. 
 - **Schlagfertigkeit** – Schnelle, geistreiche Reaktionen vor allem in verbalen Duellen  
 - **Schicksalsfugend** – Die geheimnisvolle Kraft, die das Schicksal und Glück gelenkt  
 - **Orm** – Verkörperung roher physischer Kraft und archaischer natürlicher Energie
+- **Magiekund** - Tiefgehende Kenntnis und das intuitive Verständnis von magischen Kräften
 
 **Würfelmechaniken & Einsatz:**  
 - Jede Aktion wird mit einem W20 plus dem relevanten Attributswert geprüft.
