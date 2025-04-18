@@ -6,8 +6,7 @@
 
 ## 6.0. Übersicht
 
-- **Die Verfluchte Bibliothek von Athenor:**  
-  Eine ehrwürdige, jedoch unheilvolle Bibliothek in den Ruinen einer alten Zivilisation. Hier wandeln sich Bücher und Regale, und geisterhafte Bibliothekare sowie lebendige Pergamente bewachen uralte Schriften.
+
 
 - **Der Labyrinthhafte Urwald der unendlichen Verse:**  
   Ein mystischer, sich ständig wandelnder Wald, in dem Natur und Magie verschmelzen. Alte, in Baumrinde eingravierte Verse und irreführende Pfade sorgen für rätselhafte Begegnungen mit verzauberten Bestien und elementaren Dichtern.
@@ -29,6 +28,8 @@
 - [**Der Bizarre Markt von Zamonien:** ](/docs/06_Orte_und_Schauplaetze/06_6_Der_bizarre_Markt_von_Zamonien.md)
   Ein lebendiger, chaotischer Marktplatz, an dem exzentrische Händler, fließende Zeitverhältnisse und illusorische Wegweiser den Besuchern ständig neue Überraschungen bieten. Täuschungen, trickreiche Marionetten und magische Energiestöße machen jeden Gang zu einem Abenteuer.
 
+- [**Die Verfluchte Bibliothek von Athenor:**  ](/docs/06_Orte_und_Schauplaetze/06_1_Die_verfluchte_Bibliothek_von_Athenor.md)
+  Eine ehrwürdige, jedoch unheilvolle Bibliothek in den Ruinen einer alten Zivilisation. Hier wandeln sich Bücher und Regale, und geisterhafte Bibliothekare sowie lebendige Pergamente bewachen uralte Schriften.
 ---
 
 ## 6.1 Die Verfluchte Bibliothek von Athenor
