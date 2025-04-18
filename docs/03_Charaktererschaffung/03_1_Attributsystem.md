@@ -34,10 +34,10 @@ Jedes Attribut repräsentiert einen essenziellen Aspekt – von verborgener Krea
 | **Verstand**        | VER       | Repräsentiert Logik, Scharfsinn und tiefes Wissen über zamonische Mysterien. Rätsel und Intrigen lassen sich durch einen wachen Geist oft meistern. |
 | **Gewandtheit**     | GEW       | Die körperliche Finesse und Geschicklichkeit, die nötig ist, um in den labyrinthartigen Gassen—oder schwebenden Tavernen—Zamoniens nicht über den eigenen Füßen zu stolpern. |
 | **Schlagfertigkeit**| SCH       | Die Fähigkeit, in hitzigen Wortgefechten und unerwarteten Situationen schnell und trouvez zu reagieren. Ein schlagfertiger Spruch kann nicht nur Gegner entwaffnen, sondern auch das Schicksal in unerwartete Bahnen lenken. |
-| **Schicksalsfugend**| LUKSH      | Ein mysteriöses Attribut, das den launischen Tanz zwischen Glück und Pech bestimmt. Es regelt jene Momente, in denen das Universum selbst seinen skurrilen Sinn für Humor zeigt. |
+| **Schicksalsfugend**| LUKSH     | Ein mysteriöses Attribut, das den launischen Tanz zwischen Glück und Pech bestimmt. Es regelt jene Momente, in denen das Universum selbst seinen skurrilen Sinn für Humor zeigt. |
 | **Orm**             | ORM       | Verkörpert die rohe, instinktive Energie eines Charakters. Orm ist eine Mischung aus physischer Rohkraft und mystischer Vitalität. Ein hoher Orm-Wert signalisiert, dass dein Charakter nicht nur über beeindruckende Muskelkraft, sondern auch über einen fast archaischen Überlebenswillen verfügt, der in kritischen Momenten (oder in den absurd-komischen Wendungen) den Unterschied machen kann. |
+| **Magiekund**       | MAG       | Die tiefgehende Kenntnis und das intuitive Verständnis von magischen Kräften, arkanen Theorien und übernatürlichen Phänomenen widerspiegelt. Es umfasst sowohl theoretisches Wissen als auch praktische Anwendung, sodass Charaktere mit diesem Attribut die Essenz von Magie nicht nur erkennen, sondern auch manipulieren können.
 
----
 
 ## III. Zamonische Mechanik & Proben
 
