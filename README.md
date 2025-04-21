@@ -20,8 +20,12 @@ Dieses Repository umfasst ein Regelbuch, welches dich fantastische und literaris
    -[Die verlassene Wüste von Zamonien](/docs/06_Orte_und_Schauplaetze/06_2_Die_Verlassene_Wueste_von_Zamonien.md)
    -[Der bizarre Markt von Zamonien](/docs/06_Orte_und_Schauplaetze/06_6_Der_bizarre_Markt_von_Zamonien.md)
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
+=======
+   -[Die Verfluchte Bibliothek von Athenor](/docs/06_Orte_und_Schauplaetze/06_1_Die_verfluchte_Bibliothek_von_Athenor.md)
+>>>>>>> origin/Regelwerk
 =======
    -[Die Verfluchte Bibliothek von Athenor](/docs/06_Orte_und_Schauplaetze/06_1_Die_verfluchte_Bibliothek_von_Athenor.md)
 >>>>>>> origin/Regelwerk
