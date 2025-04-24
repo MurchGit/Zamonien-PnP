@@ -101,14 +101,14 @@ Jeder Konflikt (sei es ein physischer Schlagabtausch, ein magisches Duell oder e
 
 Im System erhält jede Klasse neben ihrem typischen Attributsfokus zusätzliche Boni:
 
-| **Klasse**                         | **Typische Boni**                                |
-|------------------------------------|--------------------------------------------------|
-| **Abenteurer**                     | +1 Mut, +1 Geschicklichkeit                      |
-| **Magier des Geschichtenspinnens** | +2 Klugheit, +2 Magiekund                         |
-| **Schreibmeister**                 | +2 Ästhetik, +1 Klugheit                          |
-| **Bücherlesen**                    | +2 Klugheit, +1 Magiekund                          |
-| **Dämonenjäger**                   | +2 Mut, +1 Geschicklichkeit                       |
-| **Schanger**                       | +2 Glück, +1 Geschicklichkeit                     |
+| **Klasse**                         | Fantasie  |**Mut**  | **Verstand** | **Gewandheit**      | **Schlagfertigkeit** (SCH) |  **Schicksalsfugend (LUKSH) **| **Orm**       | **Magiekund** |
+|------------------------------------|-----------|---------|--------------|---------------------|----------------------------|-------------------------------|---------------|---------------|
+| **Abenteurer**                     |           | +1      | 0            | +1                  |                            | 0                             | 0             | +1            |
+| **Schreibmeister**                 |           | -1      | +1           | 0                   |                            |                               | +2            | 0             |
+| **Dämonenjäger**                   |           | +2      | -1           | +1                  |                            | 0                             | 0             | 0             |
+| **Schicksalstänzer**               |           | -2      | 0            | +1                  |                            | +2                             | 0            | 0            |
+| **Dimensionslochreisender**        |           | +1      | -1           | 0                   |                            | +2                            | -1            | +2            |
+| **Magier des Geschichtenspinnens** |           | -1      | +2           | 0                   |                            | 0                             | +2            | 0             |
 
 ---
 
@@ -116,15 +116,15 @@ Im System erhält jede Klasse neben ihrem typischen Attributsfokus zusätzliche 
 
 Die Rassen verleihen weitere, thematisch passende Modifikatoren:
 
-| **Rasse**                         | **Typische Boni**                                            |
-|-----------------------------------|--------------------------------------------------------------|
-| **Die Zamonier**                  | +1 auf alle Attribute                                       |
-| **Die Igelfinken**                | +2 Geschicklichkeit, +1 Glück                                |
-| **Die Rohkräftigen Ormfresser**     | +2 Mut, +1 Geschicklichkeit                                  |
-| **Die Traumwandler**              | +2 Magiekund, +1 Ästhetik                                     |
-| **Die Buchlinge**                 | +2 Klugheit, +1 Magiekund                                     |
-| **Die Dimensionslochreisenden**   | +2 Glück, +1 Klugheit                                         |
-| **Die Buntbären**                 | +2 Ästhetik, +1 Mut                                           |
+| **Rasse**                         | **Typische Boni**                                          |
+|-----------------------------------|------------------------------------------------------------|
+| **Die Zamonier**                  | +1 auf alle Attribute                                      |
+| **Die Igelfinken**                | +2 Geschicklichkeit, +1 Glück                              |
+| **Die Rohkräftigen Ormfresser**     | +2 Mut, +1 Geschicklichkeit                              |
+| **Die Buchlinge**                 | +2 Klugheit, +1 Magiekund                                  |
+| **Die Buntbären**                 | +2 Ästhetik, +1 Mut                                        |
+| **Die Dimensionslochreisenden**   | +2 Glück, +1 Klugheit                                      |
+
 
 ---
 

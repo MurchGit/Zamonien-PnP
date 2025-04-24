@@ -4,12 +4,8 @@
 > Zamonien ist nicht nur ein Land der Charaktere, sondern auch ein Land der Orte – Städte, Bibliotheken, Labyrinthe und verlassene Ruinen bilden die Kulisse für epische Abenteuer. Einige zentrale Schauplätze:
 ![TreeGrp](https://github.com/MurchGit/Zamonien-PnP/blob/Regelwerk/Assets/GUICute/Tree_Evergreen03.png)![Haus](https://github.com/MurchGit/Zamonien-PnP/blob/Regelwerk/Assets/GUICute/House03_Red.png)![TreeGrp2](https://github.com/MurchGit/Zamonien-PnP/blob/Regelwerk/Assets/GUICute/Tree02.png)
 
-## 6.0. Übersicht
+## 6.0 Übersicht
 
-
-
-- **Der Labyrinthhafte Urwald der unendlichen Verse:**  
-  Ein mystischer, sich ständig wandelnder Wald, in dem Natur und Magie verschmelzen. Alte, in Baumrinde eingravierte Verse und irreführende Pfade sorgen für rätselhafte Begegnungen mit verzauberten Bestien und elementaren Dichtern.
 
 - **Die Ruinen des verlorenen Palastes der Orm:**  
   Die Überreste eines einst prächtigen Palastes, dessen Säulen und Hallen von verblassten Inschriften und ruhelosen Geistern durchdrungen sind. Magische Fallen und wandelnde Statuen schützen die Geheimnisse vergangener Rituale.
@@ -20,16 +16,24 @@
 - **Das Tempelareal der flüsternden Verse:**  
   Ein verlassenes Areal alter Tempelruinen, durchzogen von schimmernden Inschriften und verzauberten Mosaiken. Hier lauern fanatische Kultisten und geisterhafte Priester, während magische Glyphen und rätselhafte Mechanismen den Zugang zu verborgenen Kammern versperren.
 
-- **Die Verlassene Wüste von Zamonien:**  
-  Eine endlose, raue Landschaft, geprägt von sengender Hitze, flüsternden Dünen und trügerischen Oasen. Verfallene Ruinen und uralte Tempelstätten verbergen die Macht vergangener Rituale, während gefährliche Sandwürger und unvorhersehbare Naturphänomene auf Reisende lauern.
 
 ---
+
+
+- [**Die Verfluchte Bibliothek von Athenor:**](/docs/06_Orte_und_Schauplaetze/06_1_Die_verfluchte_Bibliothek_von_Athenor.md)
+  Eine ehrwürdige, jedoch unheilvolle Bibliothek in den Ruinen einer alten Zivilisation. Hier wandeln sich Bücher und Regale, und geisterhafte Bibliothekare sowie lebendige Pergamente bewachen uralte Schriften.
+
+- [**Die Verlassene Wüste von Zamonien:**](/docs/06_Orte_und_Schauplaetze/06_2_Die_Verlassene_Wueste_von_Zamonien.md)
+  Eine endlose, raue Landschaft, geprägt von sengender Hitze, flüsternden Dünen und trügerischen Oasen. Verfallene Ruinen und uralte Tempelstätten verbergen die Macht vergangener Rituale, während gefährliche Sandwürger und unvorhersehbare Naturphänomene auf Reisende lauern.
+
+- [**Der Labyrinthhafte Urwald der unendlichen Verse:** ](/docs/06_Orte_und_Schauplaetze/06_3_Der_Labyrinthafte_Urwald_der_unendlichen_Verse.md)
+  Ein mystischer, sich ständig wandelnder Wald, in dem Natur und Magie verschmelzen. Alte, in Baumrinde eingravierte Verse und irreführende Pfade sorgen für rätselhafte Begegnungen mit verzauberten Bestien und elementaren Dichtern.
 
 - [**Der Bizarre Markt von Zamonien:** ](/docs/06_Orte_und_Schauplaetze/06_6_Der_bizarre_Markt_von_Zamonien.md)
   Ein lebendiger, chaotischer Marktplatz, an dem exzentrische Händler, fließende Zeitverhältnisse und illusorische Wegweiser den Besuchern ständig neue Überraschungen bieten. Täuschungen, trickreiche Marionetten und magische Energiestöße machen jeden Gang zu einem Abenteuer.
 
-- [**Die Verfluchte Bibliothek von Athenor:**  ](/docs/06_Orte_und_Schauplaetze/06_1_Die_verfluchte_Bibliothek_von_Athenor.md)
-  Eine ehrwürdige, jedoch unheilvolle Bibliothek in den Ruinen einer alten Zivilisation. Hier wandeln sich Bücher und Regale, und geisterhafte Bibliothekare sowie lebendige Pergamente bewachen uralte Schriften.
+
+
 ---
 
 ## 6.1 Die Verfluchte Bibliothek von Athenor
@@ -53,7 +57,28 @@ Versteckt tief in den Ruinen einer ehemals glorreichen Zivilisation erhebt sich 
 
 ---
 
-## 6.2 Der Labyrinthhafte Urwald der unendlichen Verse
+## 6.2 Die Verlassene Wüste von Zamonien
+
+**Beschreibung:**  
+Diese endlose, raue Landschaft ist von sengender Hitze, schwindelerregenden Dünen und einer gespenstischen Stille geprägt. Die Verlassene Wüste zieht Reisende mit ihrem unbändigen Charme und zugleich schier unüberwindbaren Gefahren an. Der glitzernde Sand scheint in der Nachmittagssonne lebendig zu sein – und in der Nacht verliert er jede sichere Orientierung. Hier webt der Wind melancholische Verse, die längst verflossene Zeiten flüstern.
+
+**Besonderheiten:**  
+- **Flüsternde Dünen:** Der Wüstenwind trägt uralte, fragmentarische Verse und rätselhafte Melodien, die den Geist in eine tranceartige Stimmung versetzen.  
+- **Geisterhafte Oasen:** Illusionäre Wasserquellen und schimmernde Gräserflächen locken mit der Verheißung von Erfrischung – sind es aber nur Trugbilder, die den Wanderer in endlose Sandstürme locken?  
+- **Verfallene Ruinen:** Vergrabene Tempel und verlassene Karawanenlager, in denen sich die Spuren vergessener Rituale und verbotener Magie mit dem Sand vermischen und deren Energie jederzeit erwachen kann.
+
+**Gegner:**  
+- **Sandwürger:** Schattenhafte Kreaturen, die sich perfekt in den bewegten Dünen tarnen. Ob als gigantische, schlangenartige Wesen oder als schemenhafte Humanoide – sie überwältigen unachtsame Reisende aus dem Hinterhalt.  
+- **Skarabäus-Horden:** Magisch belebte Insekten, die in Schwärmen auftreten. Ihre Angriffe sind nicht nur körperlich schmerzhaft, sondern tragen oft einen verheerenden Zauberfluch in sich, der den Verstand irritiert.  
+- **Trügerische Phantome:** Illusorische Erscheinungen alter Reisender oder verlorener Händler, die den Wanderern den Weg zu einer Oase zu zeigen scheinen – nur um in Wirklichkeit den Abenteurern in eine Falle zu locken und sie in die Tiefen des Sandes zu reißen.
+
+**Fallen:**  
+- **Sinkende Sandgruben:** Versteckte, weiche Sandflächen, die jeden schweren Schritt absorbieren und den Wanderer in einem scheinbar endlosen Sog gefangen nehmen können.  
+- **Magnetische Sandfelder:** Bereiche, in denen metallische Gegenstände – und unter Umständen auch Rüstungsteile oder Waffen – durch unsichtbare, magisch verstärkte Anziehungskräfte unkontrolliert herumgewirbelt werden.  
+- **Plötzliche Hitzewellen:** Starke Temperaturspitzen, die nicht nur zur Erschöpfung führen, sondern auch das Auslösen instabiler magischer Reaktionen begünstigen. Diese Hitzeschocks können Zauber abrupt stören oder gar angerichteten Schaden verstärken.
+
+
+## 6.3 Der Labyrinthhafte Urwald der unendlichen Verse
 
 **Beschreibung:**  
 Der uralte Wald erstreckt sich wie ein lebendiges Gedicht, dessen Reime in den raschelnden Blättern und flüsternden Bächen mitschwingen. Riesige, moosbedeckte Baumriesen und verworrene Pfade, die sich stetig neu formen, verleihen dem Urwald ein labyrinthisches Wesen. Hier scheint die Natur selbst literarische Geheimnisse zu hüten.
@@ -75,7 +100,7 @@ Der uralte Wald erstreckt sich wie ein lebendiges Gedicht, dessen Reime in den r
 
 ---
 
-## 6.3 Die Ruinen des verlorenen Palastes der Orm
+## 6.4 Die Ruinen des verlorenen Palastes der Orm
 
 **Beschreibung:**  
 Einst ein Zentrum mystischer Erhabenheit, sind die Überreste eines prächtigen Palastes heute von verblassten Versen und ruhelosen Geistern durchdrungen. Zerfallene Säulen, halb umwucherte Hallen und geheimnisvolle Inschriften an den Wänden erzählen von einer vergangenen Ära, in der Magie und literarische Rituale allgegenwärtig waren.
@@ -97,7 +122,7 @@ Einst ein Zentrum mystischer Erhabenheit, sind die Überreste eines prächtigen 
 
 ---
 
-## 6.4 Die Schreckenskluft
+## 6.5 Die Schreckenskluft
 
 **Beschreibung:**  
 Eingebettet in zerklüftetes Gelände, wo das Tageslicht lediglich spärliche Schatten wirft, führt die Schreckenskluft in eine Welt des Schreckens und der rätselhaften Eigenheiten. Die tiefe Schlucht ist geprägt von schroffen Felswänden, unruhigem, geisterhaft schimmerndem Nebel und einem allgegenwärtigen Gefühl des Unglücks.
@@ -116,30 +141,6 @@ Eingebettet in zerklüftetes Gelände, wo das Tageslicht lediglich spärliche Sc
 - **Verborgene Fallgruben:** Tief im Schatten verborgene Spalten im felsigen Untergrund, die bei Tritt die Abenteurer in stürzende Tiefe reißen können.  
 - **Magische Ranken:** Pflanzliche Fallen, die bei Berührung abrupt emporranken und die Gliedmaßen packen, sodass ein ausgewachsener Krieger ins Straucheln gerät.  
 - **Flinke Stachelfallen:** Aus spröden Felsformationen hervorbrechende spitze Splitter, die bei unvorsichtigem Ansturm tiefe Wunden verursachen.
-
----
-
-## 6.5 Das Tempelareal der flüsternden Verse
-
-**Beschreibung:**  
-Verloren in einem abgelegenen Winkel der Welt erstreckt sich ein verwunschenes Tempelareal, das von einer längst vergangenen Religion der Worte zeugt. Zerfallene Altäre, bröckelnde Steinplatten und die zarte Melodie uralter Lieder erfüllen diesen Ort. Die Luft ist schwer von der Erinnerung vergangener Rituale, in denen Worte und Magie untrennbar miteinander verbunden waren.
-
-**Besonderheiten:**  
-- **Magische Inschriften:** Wandüberzüge und Bodenmosaike tragen rätselhafte, schimmernde Schriftzeichen, die sich in Abhängigkeit von den gesprochenen Versen dynamisch verändern.  
-- **Resonanzräume:** Bestimmte Bereiche im Tempel verstärken die magischen Schwingungen – so können originale Rituale unerwartet verstärkt oder gestört werden.  
-- **Alte Orakelstätten:** Verborgene Nischen, in denen die Geister längst verstorbener Erzähler erscheinen, um den Weg der Rituale nachzuvollziehen oder gar zu korrigieren.
-
-**Gegner:**  
-- **Kultisten der verlorenen Strophen:** Fanatisch gläubige Anhänger, die versuchen, die uralten Rituale des Tempels wiederzubeleben und fremde Einflüsse eiskalt auszulöschen.  
-- **Blattwächter:** Mechanismen oder lebendige Konstrukte, die in Form von hölzernen, von Schriftzeichen durchzogenen Gestalten auftreten – stets bereit, Eindringlinge mit schnellen, magischen Angriffen abzuwehren.  
-- **Verirrte Geisterpoeten:** Seelen alter Priester, die in einer Endlosschleife gefangen sind und bei Störung des Tempels mit schmerzhaften, lyrischen Flüchen reagieren.
-
-**Fallen:**  
-- **Veränderliche Bodenmuster:** Bestimmte Mosaike lösen, wenn die Verse falsch rezitiert werden, plötzlich komplexe mechanische Fallen aus, die Türen verschließen oder plötzliche Schockwellen freisetzen.  
-- **Zauberglyphen der Umkehr:** In den Wänden eingravierte Runen, die bei unsachgemäßer Annäherung den Fluss der Magie vollkommen kippen können – was zu unerwarteten, manchmal gefährlichen Umkehrungen der Zaubereffekte führt.  
-- **Rätselhaft verschlossene Kammern:** Geheimgänge, die erst geöffnet werden, wenn ein spezieller Vers korrekt interpretiert wird – misslingt dies, können aus den verborgenen Räumen explosive Magieströme hervorschießen.
-
----Hier sind zwei neue, atmosphärisch dichte Schauplätze für euer Zamonien-Abenteuer – **Der Bizarre Markt von Zamonien** und **Die Verlassene Wüste von Zamonien**. Beide Orte sind reich an erzählerischen Details, magischen Besonderheiten, tückischen Gegnern und raffinierten Fallen.
 
 ---
 
@@ -165,24 +166,23 @@ Der Bizarre Markt ist ein schillerndes Kaleidoskop aus Ständen, Gassen und Zwis
 
 ---
 
-## 6.7 Die Verlassene Wüste von Zamonien
+## 6.7 Das Tempelareal der flüsternden Verse
 
 **Beschreibung:**  
-Diese endlose, raue Landschaft ist von sengender Hitze, schwindelerregenden Dünen und einer gespenstischen Stille geprägt. Die Verlassene Wüste zieht Reisende mit ihrem unbändigen Charme und zugleich schier unüberwindbaren Gefahren an. Der glitzernde Sand scheint in der Nachmittagssonne lebendig zu sein – und in der Nacht verliert er jede sichere Orientierung. Hier webt der Wind melancholische Verse, die längst verflossene Zeiten flüstern.
+Verloren in einem abgelegenen Winkel der Welt erstreckt sich ein verwunschenes Tempelareal, das von einer längst vergangenen Religion der Worte zeugt. Zerfallene Altäre, bröckelnde Steinplatten und die zarte Melodie uralter Lieder erfüllen diesen Ort. Die Luft ist schwer von der Erinnerung vergangener Rituale, in denen Worte und Magie untrennbar miteinander verbunden waren.
 
 **Besonderheiten:**  
-- **Flüsternde Dünen:** Der Wüstenwind trägt uralte, fragmentarische Verse und rätselhafte Melodien, die den Geist in eine tranceartige Stimmung versetzen.  
-- **Geisterhafte Oasen:** Illusionäre Wasserquellen und schimmernde Gräserflächen locken mit der Verheißung von Erfrischung – sind es aber nur Trugbilder, die den Wanderer in endlose Sandstürme locken?  
-- **Verfallene Ruinen:** Vergrabene Tempel und verlassene Karawanenlager, in denen sich die Spuren vergessener Rituale und verbotener Magie mit dem Sand vermischen und deren Energie jederzeit erwachen kann.
+- **Magische Inschriften:** Wandüberzüge und Bodenmosaike tragen rätselhafte, schimmernde Schriftzeichen, die sich in Abhängigkeit von den gesprochenen Versen dynamisch verändern.  
+- **Resonanzräume:** Bestimmte Bereiche im Tempel verstärken die magischen Schwingungen – so können originale Rituale unerwartet verstärkt oder gestört werden.  
+- **Alte Orakelstätten:** Verborgene Nischen, in denen die Geister längst verstorbener Erzähler erscheinen, um den Weg der Rituale nachzuvollziehen oder gar zu korrigieren.
 
 **Gegner:**  
-- **Sandwürger:** Schattenhafte Kreaturen, die sich perfekt in den bewegten Dünen tarnen. Ob als gigantische, schlangenartige Wesen oder als schemenhafte Humanoide – sie überwältigen unachtsame Reisende aus dem Hinterhalt.  
-- **Skarabäus-Horden:** Magisch belebte Insekten, die in Schwärmen auftreten. Ihre Angriffe sind nicht nur körperlich schmerzhaft, sondern tragen oft einen verheerenden Zauberfluch in sich, der den Verstand irritiert.  
-- **Trügerische Phantome:** Illusorische Erscheinungen alter Reisender oder verlorener Händler, die den Wanderern den Weg zu einer Oase zu zeigen scheinen – nur um in Wirklichkeit den Abenteurern in eine Falle zu locken und sie in die Tiefen des Sandes zu reißen.
+- **Kultisten der verlorenen Strophen:** Fanatisch gläubige Anhänger, die versuchen, die uralten Rituale des Tempels wiederzubeleben und fremde Einflüsse eiskalt auszulöschen.  
+- **Blattwächter:** Mechanismen oder lebendige Konstrukte, die in Form von hölzernen, von Schriftzeichen durchzogenen Gestalten auftreten – stets bereit, Eindringlinge mit schnellen, magischen Angriffen abzuwehren.  
+- **Verirrte Geisterpoeten:** Seelen alter Priester, die in einer Endlosschleife gefangen sind und bei Störung des Tempels mit schmerzhaften, lyrischen Flüchen reagieren.
 
 **Fallen:**  
-- **Sinkende Sandgruben:** Versteckte, weiche Sandflächen, die jeden schweren Schritt absorbieren und den Wanderer in einem scheinbar endlosen Sog gefangen nehmen können.  
-- **Magnetische Sandfelder:** Bereiche, in denen metallische Gegenstände – und unter Umständen auch Rüstungsteile oder Waffen – durch unsichtbare, magisch verstärkte Anziehungskräfte unkontrolliert herumgewirbelt werden.  
-- **Plötzliche Hitzewellen:** Starke Temperaturspitzen, die nicht nur zur Erschöpfung führen, sondern auch das Auslösen instabiler magischer Reaktionen begünstigen. Diese Hitzeschocks können Zauber abrupt stören oder gar angerichteten Schaden verstärken.
+- **Veränderliche Bodenmuster:** Bestimmte Mosaike lösen, wenn die Verse falsch rezitiert werden, plötzlich komplexe mechanische Fallen aus, die Türen verschließen oder plötzliche Schockwellen freisetzen.  
+- **Zauberglyphen der Umkehr:** In den Wänden eingravierte Runen, die bei unsachgemäßer Annäherung den Fluss der Magie vollkommen kippen können – was zu unerwarteten, manchmal gefährlichen Umkehrungen der Zaubereffekte führt.  
+- **Rätselhaft verschlossene Kammern:** Geheimgänge, die erst geöffnet werden, wenn ein spezieller Vers korrekt interpretiert wird – misslingt dies, können aus den verborgenen Räumen explosive Magieströme hervorschießen.
 
----

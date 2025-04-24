@@ -1,6 +1,8 @@
 # zPnP-CHARAKTERBOGEN
 
----
+![Charakterbogen 1](/Assets/misc/zPnP_Charakterbogenp1.png)
+
+![Charakterbogen 2](/Assets/misc/zPnP_Charakterbogenp2.png)
 
 ## Grunddaten
 - **Spielername:** __________________________________________
@@ -42,6 +44,7 @@
 | **Schlagfertigkeit**| SCH    | ____ |
 | **Schicksalsfugend**| LUKSH  | ____ |
 | **Orm**             | ORM    | ____ |
+| **Magiekund**       | MAG    | ____ |
 
 ---
 
