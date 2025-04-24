@@ -33,21 +33,25 @@ Dieses Repository umfasst ein Regelbuch, welches dich fantastische und literaris
 ## 1. Charakter-Attributsystem in Zamonien
 
 **Charaktererstellung & Hintergrund:**  
-Die Spieler entwickeln ihren Helden mit einer frei verteilbaren Punktzahl (z. B. 50 Punkte) auf sieben zentrale Attribute:  
-- **Fantasie** – Quelle kreativer und magischer Improvisation  
-- **Mut** – Treiber furchtloser Handlungen in kritischen Situationen  
-- **Verstand** – Scharfsinn und analytische Fähigkeiten  
-- **Gewandtheit** – Körperliche Geschicklichkeit und Reflexe  
-- **Schlagfertigkeit** – Schnelle, geistreiche Reaktionen vor allem in verbalen Duellen  
-- **Schicksalsfugend** – Die geheimnisvolle Kraft, die das Schicksal und Glück gelenkt  
-- **Orm** – Verkörperung roher physischer Kraft und archaischer natürlicher Energie
-- **Magiekund** - Tiefgehende Kenntnis und das intuitive Verständnis von magischen Kräften
+Die Spieler entwickeln ihren Helden mit einer frei verteilbaren Punktzahl (z. B. 15 Punkte) auf acht zentrale Attribute: 
+
+  | Zuordnung    |  Attribut            | Abkürzung | Beschreibung |
+  | -------------| ------------------- | --------- | ------------ |
+  | **1**        | **Fantasie**        | FAN       | Die Quelle aller kreativen Einfälle und magischen Improvisationen. Sie bestimmt, wie kunstvoll der Charakter unmögliche Situationen in wundersame Lösungen verwandelt. |
+  | **2**        | **Mut**             | MUT       | Der innere Antrieb, Widrigkeiten und grotesken Gestalten ohne Zögern zu begegnen. Ob im Angesicht der tückischen Fallgruben oder surrealen Ungeheuern – Mut ist gefragt. |
+  | **3**        | **Verstand**        | VER       | Repräsentiert Logik, Scharfsinn und tiefes Wissen über zamonische Mysterien. Rätsel und Intrigen lassen sich durch einen wachen Geist oft meistern. |
+  | **4**        | **Gewandtheit**     | GEW       | Die körperliche Finesse und Geschicklichkeit, die nötig ist, um in den labyrinthartigen Gassen—oder schwebenden Tavernen—Zamoniens nicht über den eigenen Füßen zu stolpern. |
+  | **5**        | **Schlagfertigkeit**| SCH       | Die Fähigkeit, in hitzigen Wortgefechten und unerwarteten Situationen schnell und trouvez zu reagieren. Ein schlagfertiger Spruch kann nicht nur Gegner entwaffnen, sondern auch das Schicksal in unerwartete Bahnen lenken. |
+  | **6**        | **Schicksalsfugend**| LUKSH     | Ein mysteriöses Attribut, das den launischen Tanz zwischen Glück und Pech bestimmt. Es regelt jene Momente, in denen das Universum selbst seinen skurrilen Sinn für Humor zeigt. |
+  | **7**        | **Orm**             | ORM       | Verkörpert die rohe, instinktive Energie eines Charakters. Orm ist eine Mischung aus physischer Rohkraft und mystischer Vitalität. Ein hoher Orm-Wert signalisiert, dass dein Charakter nicht nur über beeindruckende Muskelkraft, sondern auch über einen fast archaischen Überlebenswillen verfügt, der in kritischen Momenten (oder in den absurd-komischen Wendungen) den Unterschied machen kann. |
+  | **8**        | **Magiekund**       | MAG       | Die tiefgehende Kenntnis und das intuitive Verständnis von magischen Kräften, arkanen Theorien und übernatürlichen Phänomenen widerspiegelt. Es umfasst sowohl theoretisches Wissen als auch praktische Anwendung, sodass Charaktere mit diesem Attribut die Essenz von Magie nicht nur erkennen, sondern auch manipulieren können.
+
 
 **Würfelmechaniken & Einsatz:**  
-- Jede Aktion wird mit einem W20 plus dem relevanten Attributswert geprüft.
+- Jede Aktion (soweit nicht anders beschrieben) wird mit einem W20 plus dem relevanten Attributswert geprüft.
 - Kritische Erfolge (typisch 5+ Punkte über dem SG oder eine natürliche 20) lösen narrative Bonuswirkungen aus.
 - Eine gewürfelte 1 signalisiert einen kritischen Misserfolg und wird als Gelegenheit genutzt, humorvolle oder dramatische Wendungen einzubringen.
-
+- Die zufällige Trankwahl wird mit einem W8(w8) durchgeführt. [Trankwahl](/docs/07_Kampf_und_Konfliktsystem/07_01_Zufaellige_Trankwahl.md)
 ---
 
 ## 2. Rassenregelwerk
