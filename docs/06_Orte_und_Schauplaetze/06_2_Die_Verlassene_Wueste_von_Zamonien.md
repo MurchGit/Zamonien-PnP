@@ -5,7 +5,7 @@ Hier wachsen **schnippische Kakteen**, die nicht nur unberechenbar sprechen, son
 Hier gibt es keine herzliche Gastfreundschaft, nur Rachsucht, Wahnsinn und unberechenbare Naturgewalten.
 
 
-![Map-verlasseneWueste ](/Assets/Maps/dieVerlasseneWuesteVonZamonien.png)
+![Map-verlasseneWueste ](/Assets/Maps/dieVerlasseneWuesteVonZamonien.webp)
 ---
 
 ## **2. Detaillierte Zonenbeschreibung**  

@@ -3,7 +3,7 @@
 > [!IMPORTANT]
 > Die Karte gliedert sich in mehrere thematisch und funktional abgegrenzte Zonen, die über ein klar erkennbares Raster miteinander verknüpft sind. Die verfluchte Bibliothek, einst Symbole glorreicher Zivilisation, liegt jetzt in Trümmern und Moos begraben – ihre staubigen Hallen, unheimlich flackernden Lesebereiche und tödlich präzisen Fallen bilden eine lebendige, magisch-verfluchte Umgebung. Jede Zone verkörpert ein anderes Kapitel vergangener Zeiten, von geisterhaften Lesehallen über wandelbare Regalirragorien bis hin zu absurder Bürokratie. Die Map lädt den GM ein, nicht nur taktisch verlegte Kämpfe, sondern auch intellektuelle Rätsel und atmosphärische Erzählungen zu inszenieren.
 
-![Map-verfluchteBibliothek](/Assets/Maps/verfluchteBibliothekvonAthenor.png)
+![Map-verfluchteBibliothek](/Assets/Maps/verfluchteBibliothekvonAthenor.webp)
 ---
 
 ## 2. Detaillierte Zonenbeschreibung

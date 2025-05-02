@@ -4,7 +4,7 @@
 
 
 
-![Map-urwaldDerVerse ](/Assets/Maps/derUrwaldDerUnendlichenVerse.png)
+![Map-urwaldDerVerse ](/Assets/Maps/derUrwaldDerUnendlichenVerse.webp)
 ---
 
 

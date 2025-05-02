@@ -3,39 +3,38 @@
 Willkommen im Repository des Zamonien Regelwerks!  
 Dieses Repository umfasst ein Regelbuch, welches dich fantastische und literarisch-magische Abenteuer in der Welt von Zamonien beschreibt und erleben lässt.
 
-## Inhaltsübersicht
-1. [![Einführung & Hintergrund](/Assets/headericons/hBanner001.png)](docs/01_Einfuehrung_und_Hintergrund/01_Einfuehrung_und_Hintergrund.md)
+## A Inhaltsübersicht
+### 1. [![Einführung & Hintergrund](/Assets/headericons/hBanner001.png)](docs/01_Einfuehrung_und_Hintergrund/01_Einfuehrung_und_Hintergrund.md)
 
-2. ![Charaktererschaffung](/Assets/headericons/hBanner002.png)
+### 2. ![Charaktererschaffung](/Assets/headericons/hBanner002.png)
    - [![Attributsystem](/Assets/headericons/subBanner001.png)](docs/03_Charaktererschaffung/03_1_Attributsystem.md)
    - [![Rassen](/Assets/headericons/subBanner002.png)](docs/03_Charaktererschaffung/03_2_Rassen_in_Zamonien.md)
    - [![Klassen](/Assets/headericons/subBanner003.png)](docs/03_Charaktererschaffung/03_3_Klassen_in_Zamonien.md)
    - [![Charakterbogen](/Assets/headericons/subBanner004.png)](docs/03_Charaktererschaffung/03_4_Charakterbogen.md)
 
-3. [![Kampf- und Konfliktsystem](/Assets/headericons/hBanner003.png)](docs/07_Kampf_und_Konfliktsystem/07_Kampf_und_Konfliktsystem.md)
+### 3. [![Kampf- und Konfliktsystem](/Assets/headericons/hBanner003.png)](docs/07_Kampf_und_Konfliktsystem/07_Kampf_und_Konfliktsystem.md)
    - [![Spielmechaniken und Würfelsystem](/Assets/headericons/subBanner005.png)](docs/02_Spielmechaniken_und_Wuerfelsystem/02_Spielmechaniken_und_Wuerfelsystem.md)
    - [![Magiesystem & Besondere Fähigkeiten](/Assets/headericons/subBanner006.png)](docs/04_Magiesystem_und_Besondere_Faehigkeiten/04_Magiesystem_und_Besondere_Faehigkeiten.md)
 
-4. [![Ausrüstung & Gegenstände](/Assets/headericons/hBanner004.png)](docs/05_Ausruestung_und_Gegenstaende/05_Ausruestung_und_Gegenstaende.md)
+### 4. [![Ausrüstung & Gegenstände](/Assets/headericons/hBanner004.png)](docs/05_Ausruestung_und_Gegenstaende/05_Ausruestung_und_Gegenstaende.md)
 
-5. [![Kampagnengestaltung und Abenteuerideen](/Assets/headericons/hBanner005.png)](/docs/09_Kampagnengestaltung_und_Abenteuerideen/Abenteuer/abenteuer.md)
+### 5. [![Kampagnengestaltung und Abenteuerideen](/Assets/headericons/hBanner005.png)](/docs/09_Kampagnengestaltung_und_Abenteuerideen/Abenteuer/abenteuer.md)
 
 
-6. [![Karten und Schauplätze](/Assets/headericons/hBanner006.png)](docs/06_Orte_und_Schauplaetze/06_Orte_und_Schauplaetze.md)
+### 6. [![Karten und Schauplätze](/Assets/headericons/hBanner006.png)](docs/06_Orte_und_Schauplaetze/06_Orte_und_Schauplaetze.md)
    - [![Die Verfluchte Bibliothek von Athenor](/Assets/headericons/mapBanner01.png)](/docs/06_Orte_und_Schauplaetze/06_1_Die_verfluchte_Bibliothek_von_Athenor.md)
    - [![Die verlassene Wüste von Zamonien](/Assets/headericons/mapBanner02.png)](/docs/06_Orte_und_Schauplaetze/06_2_Die_Verlassene_Wueste_von_Zamonien.md)
    - [![Der Labyrinthhafte Urwald der unendlichen Verse: ](/Assets/headericons/mapBanner03.png)](/docs/06_Orte_und_Schauplaetze/06_3_Der_Labyrinthafte_Urwald_der_unendlichen_Verse.md)
+   - [![Die singenden Tiefen der Serenaden: ](/Assets/headericons/mapBanner04.png)](/docs/06_Orte_und_Schauplaetze/06_4_Die_singenden_Tiefen_der_Serenaden.md)
    - [![Der bizarre Marktv von Zamonien](/Assets/headericons/mapBanner06.png)](/docs/06_Orte_und_Schauplaetze/06_6_Der_bizarre_Markt_von_Zamonien.md)
 
+### 7. [![Spielleiterhilfen](/Assets/headericons/hBanner007.png)](docs/08_Spielleiteranweisungen/08_Spielleiteranweisungen.md)
 
-   7. [![Spielleiterhilfen](/Assets/headericons/hBanner007.png)](docs/08_Spielleiteranweisungen/08_Spielleiteranweisungen.md)
-
-8. [![Anhang und Beispiele](/Assets/headericons/hBanner008.png)](docs/10_Anhang_Beispielcharaktere/10_Anhang_Beispielcharaktere.md)
+### 8. [![Anhang und Beispiele](/Assets/headericons/hBanner008.png)](docs/10_Anhang_Beispielcharaktere/10_Anhang_Beispielcharaktere.md)
  
-
 ---
 
-## 1. Charakter-Attributsystem in Zamonien
+## B. Charakter-Attributsystem in Zamonien
 
 **Charaktererstellung & Hintergrund:**  
 Die Spieler entwickeln ihren Helden mit einer frei verteilbaren Punktzahl (z. B. 15 Punkte) auf acht zentrale Attribute: 
@@ -60,7 +59,7 @@ Die Spieler entwickeln ihren Helden mit einer frei verteilbaren Punktzahl (z. 
 ---
 
 
-### 2. Rassen - Kurzübersicht
+### C. Rassen - Kurzübersicht
 
 - **Die Zamonier**  
   *Beschreibung:* Ureinwohner mit vielseitiger, humorvoll-kreativer Art.  
