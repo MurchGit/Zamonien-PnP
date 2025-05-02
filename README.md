@@ -4,31 +4,41 @@ Willkommen im Repository des Zamonien Regelwerks!
 Dieses Repository umfasst ein Regelbuch, welches dich fantastische und literarisch-magische Abenteuer in der Welt von Zamonien beschreibt und erleben lässt.
 
 ## Inhaltsübersicht
-1. [![Einführung & Hintergrund](/Assets/headericons/hBanner018.png)](docs/01_Einfuehrung_und_Hintergrund/01_Einfuehrung_und_Hintergrund.md)
-2. [![Spielmechaniken und Würfelsystem](/Assets/headericons/hBanner017.png)](docs/02_Spielmechaniken_und_Wuerfelsystem/02_Spielmechaniken_und_Wuerfelsystem.md)
-3. ![Charaktererschaffung](/Assets/headericons/hBanner016.png)
-   - [![Attributsystem](/Assets/headericons/hBanner019.png)](docs/03_Charaktererschaffung/03_1_Attributsystem.md)
-   - [![Rassen](/Assets/headericons/hBanner020.png)](docs/03_Charaktererschaffung/03_2_Rassen_in_Zamonien.md)
-   - [![Klassen](/Assets/headericons/hBanner021.png)](docs/03_Charaktererschaffung/03_3_Klassen_in_Zamonien.md)
-   - [![Charakterbogen](/Assets/headericons/hBanner022.png)](docs/03_Charaktererschaffung/03_4_Charakterbogen.md)
-4. [![Magiesystem & Besondere Fähigkeiten](/Assets/headericons/hBanner008.png)](docs/04_Magiesystem_und_Besondere_Faehigkeiten/04_Magiesystem_und_Besondere_Faehigkeiten.md)
-5. [![Ausrüstung & Gegenstände](/Assets/headericons/hBanner009.png)](docs/05_Ausruestung_und_Gegenstaende/05_Ausruestung_und_Gegenstaende.md)
-6. [![Orte und Schauplätze](/Assets/headericons/hBanner010.png)](docs/06_Orte_und_Schauplaetze/06_Orte_und_Schauplaetze.md)
+![zPnP Regelwerk](/Assets/headericons/mainBanner001.png)
+
+Willkommen im Repository des Zamonien Regelwerks!
+Dieses Repository umfasst ein Regelbuch, welches dich fantastische und literarisch-magische Abenteuer in der Welt von Zamonien beschreibt und erleben lässt.
+
+## Inhaltsübersicht
+1. [![Einführung & Hintergrund](/Assets/headericons/hBanner001.png)](docs/01_Einfuehrung_und_Hintergrund/01_Einfuehrung_und_Hintergrund.md)
+
+2. ![Charaktererschaffung](/Assets/headericons/hBanner002.png)
+   - [![Attributsystem](/Assets/headericons/subBanner001.png)](docs/03_Charaktererschaffung/03_1_Attributsystem.md)
+   - [![Rassen](/Assets/headericons/subBanner002.png)](docs/03_Charaktererschaffung/03_2_Rassen_in_Zamonien.md)
+   - [![Klassen](/Assets/headericons/subBanner003.png)](docs/03_Charaktererschaffung/03_3_Klassen_in_Zamonien.md)
+   - [![Charakterbogen](/Assets/headericons/subBanner004.png)](docs/03_Charaktererschaffung/03_4_Charakterbogen.md)
+
+3. [![Kampf- und Konfliktsystem](/Assets/headericons/hBanner003.png)](docs/07_Kampf_und_Konfliktsystem/07_Kampf_und_Konfliktsystem.md)
+   - [![Spielmechaniken und Würfelsystem](/Assets/headericons/subBanner005.png)](docs/02_Spielmechaniken_und_Wuerfelsystem/02_Spielmechaniken_und_Wuerfelsystem.md)
+   - [![Magiesystem & Besondere Fähigkeiten](/Assets/headericons/subBanner006.png)](docs/04_Magiesystem_und_Besondere_Faehigkeiten/04_Magiesystem_und_Besondere_Faehigkeiten.md)
+
+4. [![Ausrüstung & Gegenstände](/Assets/headericons/hBanner004.png)](docs/05_Ausruestung_und_Gegenstaende/05_Ausruestung_und_Gegenstaende.md)
+
+5. [![Kampagnengestaltung und Abenteuerideen](/Assets/headericons/hBanner005.png)](/docs/09_Kampagnengestaltung_und_Abenteuerideen/Abenteuer/abenteuer.md)
 
 
-   - [Die Verfluchte Bibliothek von Athenor](/docs/06_Orte_und_Schauplaetze/06_1_Die_verfluchte_Bibliothek_von_Athenor.md)
-   - [Die verlassene Wüste von Zamonien](/docs/06_Orte_und_Schauplaetze/06_2_Die_Verlassene_Wueste_von_Zamonien.md) 
-   - [**Der Labyrinthhafte Urwald der unendlichen Verse:** ](/docs/06_Orte_und_Schauplaetze/06_3_Der_Labyrinthafte_Urwald_der_unendlichen_Verse.md)
-   - [Der bizarre Markt von Zamonien](/docs/06_Orte_und_Schauplaetze/06_6_Der_bizarre_Markt_von_Zamonien.md)
-   
+6. [![Karten und Schauplätze](/Assets/headericons/hBanner006.png)](docs/06_Orte_und_Schauplaetze/06_Orte_und_Schauplaetze.md)
+   - [![Die Verfluchte Bibliothek von Athenor](/Assets/headericons/mapBanner01.png)](/docs/06_Orte_und_Schauplaetze/06_1_Die_verfluchte_Bibliothek_von_Athenor.md)
+   - [![Die verlassene Wüste von Zamonien](/Assets/headericons/mapBanner02.png)](/docs/06_Orte_und_Schauplaetze/06_2_Die_Verlassene_Wueste_von_Zamonien.md)
+   - [![Der Labyrinthhafte Urwald der unendlichen Verse: ](/Assets/headericons/mapBanner03.png)](/docs/06_Orte_und_Schauplaetze/06_3_Der_Labyrinthafte_Urwald_der_unendlichen_Verse.md)
+   - [![Der bizarre Marktv von Zamonien](/Assets/headericons/mapBanner04.png)](/docs/06_Orte_und_Schauplaetze/06_6_Der_bizarre_Markt_von_Zamonien.md)
 
-7. [![Kampf- und Konfliktsystem](/Assets/headericons/hBanner011.png)](docs/07_Kampf_und_Konfliktsystem/07_Kampf_und_Konfliktsystem.md)
-8. [![Spielleiteranweisungen](/Assets/headericons/hBanner012.png)](docs/08_Spielleiteranweisungen/08_Spielleiteranweisungen.md)
-9. [![Kampagnengestaltung und Abenteuerideen](/Assets/headericons/hBanner013.png)](/docs/09_Kampagnengestaltung_und_Abenteuerideen/Abenteuer/abenteuer.md)
-10. [![Anhang: Beispielcharaktere](/Assets/headericons/hBanner014.png)](docs/10_Anhang_Beispielcharaktere/10_Anhang_Beispielcharaktere.md)
 
+   7. [![Spielleiterhilfen](/Assets/headericons/hBanner007.png)](docs/08_Spielleiteranweisungen/08_Spielleiteranweisungen.md)
+
+8. [![Anhang und Beispiele](/Assets/headericons/hBanner008.png)](docs/10_Anhang_Beispielcharaktere/10_Anhang_Beispielcharaktere.md)
  
-## Rassen- & Attributregelwerk – Übersicht
+
 ---
 
 ## 1. Charakter-Attributsystem in Zamonien
@@ -55,17 +65,8 @@ Die Spieler entwickeln ihren Helden mit einer frei verteilbaren Punktzahl (z. 
 - Die zufällige Trankwahl wird mit einem W8(w8) durchgeführt. [Trankwahl](/docs/07_Kampf_und_Konfliktsystem/07_01_Zufaellige_Trankwahl.md)
 ---
 
-## 2. Rassenregelwerk
 
-**Grundprinzipien eines Rassenprofils:**  
-- **Hintergrund und Herkunft:** Jede Rasse hat ihre eigene Geschichte und kulturellen Eigenheiten, die tief in der Welt Zamonien verwurzelt sind.
-- **Physische und kulturelle Merkmale:** Festlegung von Erscheinung, typischen Eigenschaften und besonderen Traditionen.
-- **Attributsmodifikatoren:** Jede Rasse bringt spezifische Bonuswerte oder Mali für bestimmte Attribute mit.
-- **Rassenfertigkeiten:** Jede Spezies verfügt über einmal pro Abenteuer oder permanent aktivierbare Spezialfähigkeiten.
-- **Sonderregeln:** Ergänzende Regeln, die situative Effekte und narrative Wendepunkte betonen.
----
-
-### Beispielhafte Rassen
+### 2. Rassen - Kurzübersicht
 
 - **Die Zamonier**  
   *Beschreibung:* Ureinwohner mit vielseitiger, humorvoll-kreativer Art.  
@@ -86,20 +87,9 @@ Die Spieler entwickeln ihren Helden mit einer frei verteilbaren Punktzahl (z. 
 - **Die Buntbären**  
   *Beschreibung:* Robuste, bärenähnliche Wesen mit leuchtendem, farbenfrohem Fell, die in magischen Wäldern heimisch sind.  
   *Spezialfähigkeit:* Farbiger Kampfrausch – Einmal pro Abenteuer aktiviert ihr leuchtendes Farbenspiel, das Gegner blendet und ihnen sowie ihren Verbündeten Bonus auf körperliche und Orm-Proben verleiht.
-  
-  **Sonderregeln und Attributsmodifikatoren der Buntbären:**  
-  - **Sonderregeln:**  
-    - *Schutzschild aus Naturenergie:* Einmalig kann ein zusätzlicher Schild aktiviert werden, der einen Angriff abfängt.  
-    - *Naturverbundene Präsenz:* In naturnahen Umgebungen gibt es dauerhafte kleine Boni auf Wahrnehmungs- und Akrobatikwürfe.  
-  - **Attributsmodifikatoren:**  
-    - Orm: +2 (außergewöhnliche rohe Kraft)  
-    - Mut: +1 (starker, unerschütterlicher Wille)  
-    - Gewandtheit: −1 (massige Statur schränkt schnelle Bewegungen ein)  
-    - Fantasie: +1 (natürliche Verbindung zur lebendigen Natur)  
-    - Verstand, Schlagfertigkeit, Schicksalsfugend: neutral  
----
 
-## 3. Klassenmodifikatoren – Kurzzitate
+
+## 3. Klassenm – Kurzzitate
 
 > [!NOTE]
 > Hier einige prägnante Zitate, die die Klassenattribute zusammenfassen:

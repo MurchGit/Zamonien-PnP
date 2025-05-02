@@ -50,7 +50,28 @@ In Zamonien sind Rassen weit mehr als nur biologische Kategorien – sie sind Au
 - **Schwächen**
 
 
-### 3. Die Buchlinge
+### 3. Die Rohkräftigen Ormfresser
+
+- **Hintergrund und Kultur:**  
+  Diese kampferprobten, naturverbundenen Wesen genießen in Zamonien legendären Ruf. Ihr Name verweist auf ihre nahezu archaische Kraft und die enge Verbindung zur Natur – manchmal auch zur rohen, ungezähmten Energie des Orm.
+- **Typische Merkmale:**  
+  Stämmige Körper, ausgeprägte muskulöse Attribute und ein raues, oft einschüchterndes Äußeres.
+
+- **Attributmodifikatoren:**  
+  - +2 auf Mut  
+  - −1 auf Magiekund (nicht immer geübt in magischen Gefechten)
+- **Rassenfertigkeiten:**  
+  - **Urinstinkt:** Bei besonders gefährlichen Situationen kann ein Rohkräftiger Ormfresser durch seine innere Kraftanschub einen zusätzlichen Wurfbonus erhalten oder sogar kurzfristig übernatürliche Kräfte entfalten, die Gegner zurückstoßen.
+
+- **Sonderregeln:**  
+  Aufgrund ihrer Naturverbundenheit können Ormfresser auf Spezialbonusse zurückgreifen, wenn sie in der freien Natur (beispielsweise in uralten Wäldern oder bei Naturphänomenen) agieren.
+
+- **Vorteile**
+
+- **Schwächen**
+
+
+### 4. Die Buchlinge
 
 **Hintergrund und Kultur:**  
 Die Buchlinge sind Wesen, die gleichsam wie lebendige Folianten und wandelnde Geschichten erscheinen. In den staubigen Ecken uralter Bibliotheken oder in den geheimen Archiven Zamonien zu Hause, verbinden sie die Macht des geschriebenen Wortes mit einer beinahe magischen Kreativität. Sie pflegen Traditionen, die sich um das geschriebene Wort und die Kunst des Erzählens ranken, und ihre Legenden sind oft kunstvoll überliefert und voller versteckter Weisheiten.
@@ -98,26 +119,6 @@ Markante Augen und ein freundliches, aber bestimmtes Gesicht runden das Bild die
 
 - **Schwächen**
 
-
-### 5. Die Rohkräftigen Ormfresser
-
-- **Hintergrund und Kultur:**  
-  Diese kampferprobten, naturverbundenen Wesen genießen in Zamonien legendären Ruf. Ihr Name verweist auf ihre nahezu archaische Kraft und die enge Verbindung zur Natur – manchmal auch zur rohen, ungezähmten Energie des Orm.
-- **Typische Merkmale:**  
-  Stämmige Körper, ausgeprägte muskulöse Attribute und ein raues, oft einschüchterndes Äußeres.
-
-- **Attributmodifikatoren:**  
-  - +2 auf Mut  
-  - −1 auf Magiekund (nicht immer geübt in magischen Gefechten)
-- **Rassenfertigkeiten:**  
-  - **Urinstinkt:** Bei besonders gefährlichen Situationen kann ein Rohkräftiger Ormfresser durch seine innere Kraftanschub einen zusätzlichen Wurfbonus erhalten oder sogar kurzfristig übernatürliche Kräfte entfalten, die Gegner zurückstoßen.
-
-- **Sonderregeln:**  
-  Aufgrund ihrer Naturverbundenheit können Ormfresser auf Spezialbonusse zurückgreifen, wenn sie in der freien Natur (beispielsweise in uralten Wäldern oder bei Naturphänomenen) agieren.
-
-- **Vorteile**
-
-- **Schwächen**
 
 ---
 
