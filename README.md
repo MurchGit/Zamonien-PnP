@@ -1,12 +1,6 @@
-#  ![zPnP Regelwerk](/Assets/headericons/hBanner003.png)
+# ![zPnP Regelwerk](/Assets/headericons/mainBanner001.png)
 
 Willkommen im Repository des Zamonien Regelwerks!  
-Dieses Repository umfasst ein Regelbuch, welches dich fantastische und literarisch-magische Abenteuer in der Welt von Zamonien beschreibt und erleben lässt.
-
-## Inhaltsübersicht
-![zPnP Regelwerk](/Assets/headericons/mainBanner001.png)
-
-Willkommen im Repository des Zamonien Regelwerks!
 Dieses Repository umfasst ein Regelbuch, welches dich fantastische und literarisch-magische Abenteuer in der Welt von Zamonien beschreibt und erleben lässt.
 
 ## Inhaltsübersicht
@@ -31,7 +25,7 @@ Dieses Repository umfasst ein Regelbuch, welches dich fantastische und literaris
    - [![Die Verfluchte Bibliothek von Athenor](/Assets/headericons/mapBanner01.png)](/docs/06_Orte_und_Schauplaetze/06_1_Die_verfluchte_Bibliothek_von_Athenor.md)
    - [![Die verlassene Wüste von Zamonien](/Assets/headericons/mapBanner02.png)](/docs/06_Orte_und_Schauplaetze/06_2_Die_Verlassene_Wueste_von_Zamonien.md)
    - [![Der Labyrinthhafte Urwald der unendlichen Verse: ](/Assets/headericons/mapBanner03.png)](/docs/06_Orte_und_Schauplaetze/06_3_Der_Labyrinthafte_Urwald_der_unendlichen_Verse.md)
-   - [![Der bizarre Marktv von Zamonien](/Assets/headericons/mapBanner04.png)](/docs/06_Orte_und_Schauplaetze/06_6_Der_bizarre_Markt_von_Zamonien.md)
+   - [![Der bizarre Marktv von Zamonien](/Assets/headericons/mapBanner06.png)](/docs/06_Orte_und_Schauplaetze/06_6_Der_bizarre_Markt_von_Zamonien.md)
 
 
    7. [![Spielleiterhilfen](/Assets/headericons/hBanner007.png)](docs/08_Spielleiteranweisungen/08_Spielleiteranweisungen.md)
