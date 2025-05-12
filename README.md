@@ -9,11 +9,37 @@ Dieses Repository umfasst ein Regelbuch, welches dich fantastische und literaris
 ### 2. ![Charaktererschaffung](/Assets/headericons/hBanner002.png)
    - [![Attributsystem](/Assets/headericons/subBanner001.png)](docs/03_Charaktererschaffung/03_1_Attributsystem.md)
    - [![Rassen](/Assets/headericons/subBanner002.png)](docs/03_Charaktererschaffung/03_2_Rassen_in_Zamonien.md)
+
+[**Die Zamonier** ](/docs/03_Charaktererschaffung/Rassen/03_01_Die_Zamonier.md)
+  *Beschreibung:* Ureinwohner mit vielseitiger, humorvoll-kreativer Art.  
+  *Spezialfähigkeit:* Erzählerische Präsenz – Bonus in Wortduellen und Verhandlungen.
+
+[**Igelfinken** ](/docs/03_Charaktererschaffung/Rassen/03_02_Die_Igelfinken.md)
+  *Beschreibung:* Kleine, agile Geschöpfe, bekannt für ihre schnelle Reaktion in engen Gassen.  
+  *Spezialfähigkeit:* Agile Flucht – Verbesserte Ausweichproben und schnelle Bewegungen.
+
+[**Die Rohkräftigen Ormfresser** ](/docs/03_Charaktererschaffung/Rassen/03_03_Die_Rohkraeftigen_Ormfresser.md) 
+  *Beschreibung:* Wuchtige, naturverbundene Kämpfer mit beeindruckender roher Kraft.  
+  *Spezialfähigkeit:* Urinstinkt – Zusätzliche Kraftimpulse, die Gegner zurückstoßen.
+
+[**Die Buchlinge** ](/docs/03_Charaktererschaffung/Rassen/03_04_Die_Buchlinge.md)
+  *Beschreibung:* Zierliche, buchähnliche Kreaturen mit papyrusartiger Haut und tintenblauen Augen.  
+  *Spezialfähigkeit:* Wortmagie & Lesende Eingebung – Narrative Wendung misslungener Würfe und Bonus bei literarischen Rätseln.
+
+[**Die Buntbären** ](/docs/03_Charaktererschaffung/Rassen/03_05_Die_Buntbaeren.md)
+  *Beschreibung:* Robuste, bärenähnliche Wesen mit leuchtendem, farbenfrohem Fell, die in magischen Wäldern heimisch sind.  
+  *Spezialfähigkeit:* Farbiger Kampfrausch – Einmal pro Abenteuer aktiviert ihr leuchtendes Farbenspiel, das Gegner blendet und ihnen sowie ihren Verbündeten Bonus auf körperliche und Orm-Proben verleiht.
+  
    - [![Klassen](/Assets/headericons/subBanner003.png)](docs/03_Charaktererschaffung/03_3_Klassen_in_Zamonien.md)
    - [![Charakterbogen](/Assets/headericons/subBanner004.png)](docs/03_Charaktererschaffung/03_4_Charakterbogen.md)
 
 ### 3. [![Kampf- und Konfliktsystem](/Assets/headericons/hBanner003.png)](docs/07_Kampf_und_Konfliktsystem/07_Kampf_und_Konfliktsystem.md)
    - [![Spielmechaniken und Würfelsystem](/Assets/headericons/subBanner005.png)](docs/02_Spielmechaniken_und_Wuerfelsystem/02_Spielmechaniken_und_Wuerfelsystem.md)
+
+[**Energiesystem** ](/docs/02_Spielmechaniken_und_Wuerfelsystem/02_01_Energiesystem.md)
+
+[**Camp & Regeneration** ](/docs/02_Spielmechaniken_und_Wuerfelsystem/02_02_Regeneration_im_Zeltlager.md)
+
    - [![Magiesystem & Besondere Fähigkeiten](/Assets/headericons/subBanner006.png)](docs/04_Magiesystem_und_Besondere_Faehigkeiten/04_Magiesystem_und_Besondere_Faehigkeiten.md)
 
 ### 4. [![Ausrüstung & Gegenstände](/Assets/headericons/hBanner004.png)](docs/05_Ausruestung_und_Gegenstaende/05_Ausruestung_und_Gegenstaende.md)
@@ -57,29 +83,6 @@ Die Spieler entwickeln ihren Helden mit einer frei verteilbaren Punktzahl (z. 
 - Eine gewürfelte 1 signalisiert einen kritischen Misserfolg und wird als Gelegenheit genutzt, humorvolle oder dramatische Wendungen einzubringen.
 - Die zufällige Trankwahl wird mit einem W8(w8) durchgeführt. [Trankwahl](/docs/07_Kampf_und_Konfliktsystem/07_01_Zufaellige_Trankwahl.md)
 ---
-
-
-### C. Rassen - Kurzübersicht
-
-- **Die Zamonier**  
-  *Beschreibung:* Ureinwohner mit vielseitiger, humorvoll-kreativer Art.  
-  *Spezialfähigkeit:* Erzählerische Präsenz – Bonus in Wortduellen und Verhandlungen.
-
-- **Die Igelflinken**  
-  *Beschreibung:* Kleine, agile Geschöpfe, bekannt für ihre schnelle Reaktion in engen Gassen.  
-  *Spezialfähigkeit:* Agile Flucht – Verbesserte Ausweichproben und schnelle Bewegungen.
-
-- **Die Rohkräftigen Ormfresser**  
-  *Beschreibung:* Wuchtige, naturverbundene Kämpfer mit beeindruckender roher Kraft.  
-  *Spezialfähigkeit:* Urinstinkt – Zusätzliche Kraftimpulse, die Gegner zurückstoßen.
-
-- **Die Buchlinge**  
-  *Beschreibung:* Zierliche, buchähnliche Kreaturen mit papyrusartiger Haut und tintenblauen Augen.  
-  *Spezialfähigkeit:* Wortmagie & Lesende Eingebung – Narrative Wendung misslungener Würfe und Bonus bei literarischen Rätseln.
-
-- **Die Buntbären**  
-  *Beschreibung:* Robuste, bärenähnliche Wesen mit leuchtendem, farbenfrohem Fell, die in magischen Wäldern heimisch sind.  
-  *Spezialfähigkeit:* Farbiger Kampfrausch – Einmal pro Abenteuer aktiviert ihr leuchtendes Farbenspiel, das Gegner blendet und ihnen sowie ihren Verbündeten Bonus auf körperliche und Orm-Proben verleiht.
 
 
 ## 3. Klassenm – Kurzzitate

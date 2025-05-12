@@ -9,6 +9,7 @@ In Zamonien sind Rassen weit mehr als nur biologische Kategorien – sie sind Au
 
 
 ### 1. Die Zamonier
+[**Die Zamonier** ](/docs/03_Charaktererschaffung/Rassen/03_01_Die_Zamonier.md)
 
 - **Hintergrund und Kultur:**  
   Als die „Ureinwohner“ Zamonien sind die Zamonier für ihre Vielseitigkeit und ihren unerschütterlichen Humor bekannt. Ihre Geschichten und Erzählungen färben die Kultur des gesamten Reiches.
@@ -30,6 +31,7 @@ In Zamonien sind Rassen weit mehr als nur biologische Kategorien – sie sind Au
 
 
 ### 2. Die Igelflinken
+[**Igelfinken** ](/docs/03_Charaktererschaffung/Rassen/03_02_Die_Igelfinken.md)
 
 - **Hintergrund und Kultur:**  
   Klein, flink und augenzwinkernd scheu – die Igelflinken haben sich in den engen Gassen und Hinterhöfen Zamonien etabliert. Ihre Lebensweise ist geprägt von vorsichtiger Neugier und einer starken Gemeinschaftsbindung.
@@ -51,6 +53,7 @@ In Zamonien sind Rassen weit mehr als nur biologische Kategorien – sie sind Au
 
 
 ### 3. Die Rohkräftigen Ormfresser
+[**Die Rohkräftigen Ormfresser** ](/docs/03_Charaktererschaffung/Rassen/03_03_Die_Rohkraeftigen_Ormfresser.md)
 
 - **Hintergrund und Kultur:**  
   Diese kampferprobten, naturverbundenen Wesen genießen in Zamonien legendären Ruf. Ihr Name verweist auf ihre nahezu archaische Kraft und die enge Verbindung zur Natur – manchmal auch zur rohen, ungezähmten Energie des Orm.
@@ -72,6 +75,7 @@ In Zamonien sind Rassen weit mehr als nur biologische Kategorien – sie sind Au
 
 
 ### 4. Die Buchlinge
+[**Die Buchlinge** ](/docs/03_Charaktererschaffung/Rassen/03_04_Die_Buchlinge.md)
 
 **Hintergrund und Kultur:**  
 Die Buchlinge sind Wesen, die gleichsam wie lebendige Folianten und wandelnde Geschichten erscheinen. In den staubigen Ecken uralter Bibliotheken oder in den geheimen Archiven Zamonien zu Hause, verbinden sie die Macht des geschriebenen Wortes mit einer beinahe magischen Kreativität. Sie pflegen Traditionen, die sich um das geschriebene Wort und die Kunst des Erzählens ranken, und ihre Legenden sind oft kunstvoll überliefert und voller versteckter Weisheiten.
@@ -94,7 +98,8 @@ Buchlinge erscheinen als kleine, zierliche Kreaturen mit papyrusartigen Hautpart
 - **Schwächen:** Körperlich fragil und in direkten physischen Auseinandersetzungen oft benachteiligt.
 
 
-### 4. Buntbär
+### 5. Buntbär
+[**Die Buntbären** ](/docs/03_Charaktererschaffung/Rassen/03_05_Die_Buntbaeren.md)
 
 **Hintergrund und Kultur:**  
 Buntbären stammen aus den zauberhaften Wäldern und sanften Hügeln Zamonien, wo Natur und Magie in einer ständigen Symbiose existieren. In alten Legenden werden sie als Beschützer der Lebenskraft und als Hüter der natürlichen Farbenpracht verehrt. In ihrer Stammesgesellschaft herrscht ein tiefes Verständnis für die natürlichen Zyklen und den Fluss der Elemente. 
@@ -131,9 +136,9 @@ Markante Augen und ein freundliches, aber bestimmtes Gesicht runden das Bild die
 |-----------------------------------|--------------------------------------------------------------|
 | **Die Zamonier**                  | +1 auf alle Attribute                                        |
 | **Die Igelfinken**                | +2 Geschicklichkeit, +1 Glück. -1 Mut                        |
+| **Die Rohkräftigen Ormfresser**   | +2 Mut, +1 Geschicklichkeit                                  |
 | **Die Buchlinge**                 | +2 Orm, +1 Magiekund                                         |
 | **Die Buntbären**                 | +1 Mut, +1 Gewandtheit                                       |
-| **Die Rohkräftigen Ormfresser**   | +2 Mut, +1 Geschicklichkeit                                  |
 
 
 ---
