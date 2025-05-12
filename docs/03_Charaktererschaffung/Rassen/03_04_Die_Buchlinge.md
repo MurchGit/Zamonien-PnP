@@ -1,6 +1,8 @@
 # Die Buchlinge!
 
-
+  *Beschreibung:* Zierliche, buchähnliche Kreaturen mit papyrusartiger Haut und tintenblauen Augen.  
+  *Spezialfähigkeit:* Wortmagie & Lesende Eingebung – Narrative Wendung misslungener Würfe und Bonus bei literarischen Rätseln.
+  
 ## 1. Einleitung
 
 ---

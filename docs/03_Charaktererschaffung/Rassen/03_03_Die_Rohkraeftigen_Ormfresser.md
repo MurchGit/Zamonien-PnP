@@ -1,6 +1,7 @@
 # Die Rohkräftigen Ormfresser!
 
-![Ein Igelfink](/Assets/Character/Abenteurer/igelfinkChar.png)
+  *Beschreibung:* Wuchtige, naturverbundene Kämpfer mit beeindruckender roher Kraft.  
+  *Spezialfähigkeit:* Urinstinkt – Zusätzliche Kraftimpulse, die Gegner zurückstoßen.
 
 ## 1. Einleitung
 

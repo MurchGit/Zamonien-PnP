@@ -19,7 +19,7 @@ Das Gebiet gliedert sich in mehrere charakteristische Bereiche, die jeweils ihre
 
 ### **A. Die Pforte des Unterwassergeysirs**
 
-![Die Pforte](/Assets/Maps/eingangsbereichUwastadt.png)
+![Die Pforte](/Assets/Maps/eingangsbereichUwastadt.webp)
 
 **Beschreibung:**  
 Der Eingangsbereich bildet die Schwelle zur geheimnisvollen Unterwasserstadt. Im Zentrum steht ein dampfender Geysir, umrahmt von flackernden, kerzenartigen Stalagmiten. Singende Luftblasen geleiten den Abenteurern den Weg in das Reich der Tiefen. Die Szenerie vereint eine fast betörende Schönheit mit unterschwelliger Gefahr, während wechselhafte Strömungen und schattenhafte Lichtreflexe den ersten Eindruck dieses magischen Ortes prägen.
@@ -30,7 +30,7 @@ Der Eingangsbereich bildet die Schwelle zur geheimnisvollen Unterwasserstadt. Im
 
 **Gegner:**  
 - **Quasselnder Ammonit:** Ihr ablenkendes Geplapper und gelegentlich aktivierte Nesselzellen können den Spieler bereits in diesem Übergangsbereich in Alarmbereitschaft versetzen.
- ![Der quasslende Ammonit](/Assets/Gegner/singendeTiefen/quasselnderAmmonit.png)
++ ![Der quasslende Ammonit](/Assets/Gegner/singendeTiefen/quasselnderAmmonit.png)
 ---
 
 ### **2. Dichtwald der Algen**
@@ -45,12 +45,12 @@ Hier durchqueren die Abenteurer ein dicht verworrenes, schmal geschnittenes Netz
 
 **Gegner:**  
 - **Kauderwelschkrebs (unterentwickelte Variante):** Diese hinterhältigen Kreaturen lauern in den schattigen Ecken und nutzen die dichte Vegetation, um aus dem Hinterhalt zuzuschlagen, muss sich hierbei aber auf Geräusche verlassen, da er in diesem Stadium noch nicht in der Lage ist zu sehen.
- ![Kauderwelschkrebs 1](/Assets/Gegner/singendeTiefen/kauderwelschKrebs1.png)
++ ![Kauderwelschkrebs 1](/Assets/Gegner/singendeTiefen/kauderwelschKrebs1.png)
 - **Zweiaugiger Kauderwelschkrebs (ausgewachsene Variante):** Als finale Hürde in diesem Bereich kombiniert er verbesserte Angriffsstrategien mit ausgeklügelten Hinterhalten, um Eindringlinge abzuwehren. ER KANN SEHEN!
- ![Kauderwelschkrebs 2](/Assets/Gegner/singendeTiefen/kauderwelschKrebs2.png)
++ ![Kauderwelschkrebs 2](/Assets/Gegner/singendeTiefen/kauderwelschKrebs2.png)
 - **Brutale Blindfische:** Der Blindfisch ist ein beinahe blinder Räuber, der mit furchteinflößenden, scharfen Zähnen bewaffnet ist. Eine geheimnisvolle Laterne, die an seinem Kopf prangt, hilft ihm dabei, auch in der Dunkelheit minimale Lichtreize und Bewegungen wahrzunehmen – und so seine Beute unerwartet zu attackieren.
- ![Brutaler Blindfisch ](/Assets/Gegner/singendeTiefen/brutalerBlindfisch.png)
- Trotz der eingeschränkten Sehkraft kompensiert die Laterne seinen Blindheitsgrad ein wenig, sodass er präzise auf Vibrationen und Lichtveränderungen reagiert und mit seinen Zähnen zuschlägt.
++ ![Brutaler Blindfisch ](/Assets/Gegner/singendeTiefen/brutalerBlindfisch.png)
+
 ---
 
 ### **3. Zentrum der Gefahr**
@@ -64,11 +64,11 @@ Im Herzen der Unterwasserstadt pulsiert das Zentrum der Gefahr – ein weitläuf
 
 **Gegner:**  
 - **Beide Varianten des Kauderwelschkrebs:** Sowohl die nicht entwickelte als auch die ausgewachsene Version präsentieren sich als schnelle und taktisch variierende Bedrohungen.  
-  ![Kauderwelschkrebs ](/Assets/Gegner/singendeTiefen/kauderwelschKrebs1.png) ![Kauderwelschkrebs ](/Assets/Gegner/singendeTiefen/kauderwelschKrebs2.png)
++  ![Kauderwelschkrebs ](/Assets/Gegner/singendeTiefen/kauderwelschKrebs1.png) ![Kauderwelschkrebs ](/Assets/Gegner/singendeTiefen/kauderwelschKrebs2.png)
 - **Der Quall:** Mit ihren irritierenden Lautäußerungen und giftigen Nesselzellen sorgt sie für anhaltende Verwirrung in den Gefechten.  
-  ![Quasselnder Quall ](/Assets/Gegner/singendeTiefen/quall.png)
++ ![Quasselnder Quall ](/Assets/Gegner/singendeTiefen/quall.png)
 - **Halbstarker Muskelrochen:** In Gruppen koordinieren diese wendigen rochenartigen Wesen ihre Stöße und nutzen die unvorhersehbaren Strömungen zu ihrem Vorteil - Manchmal versuchen sie auch zu schnipsen und legen seltsame Tanzeinlagen ein.
-  ![Halbstarker Muskelrochen ](/Assets/Gegner/singendeTiefen/halbstarkerMuskelrochen.png)
++  ![Halbstarker Muskelrochen ](/Assets/Gegner/singendeTiefen/halbstarkerMuskelrochen.png)
 
 
 > [!CAUTION]
@@ -76,7 +76,7 @@ Im Herzen der Unterwasserstadt pulsiert das Zentrum der Gefahr – ein weitläuf
 > 
 > **Beschreibung:**  
 > Während sich die Abenteurer im chaotischen Zentrum der Gefahr mit tückischen Wasserströmungen und flackernden Illusionen auseinandersetzen, bemerken sie plötzlich ein seltsames, schattenwerfendes Phänomen: In einer abgelegenen Nische taucht ein wuselnder Schleimwicht auf – ein amorphes, schleimiges Gebilde, das fast harmlos wirkt, jedoch von einem unheilvoll übergroßen Schatten begleitet wird. Dieser Schatten, weit größer als der Körper des Schleims, wirkt bedrohlich und scheint ein eigenständiges, düsteres Leben zu führen. Kurz nachdem der Schleimwicht in Erscheinung getreten ist, beginnt dieser, pulsierend und unheimlich zu flackern – und in einem dramatischen Moment der Metamorphose verwandelt er sich in den furchteinflößenden Abyssalen Tentakellord, begleitet von flossenbestückten Schergen, die augenblicklich in Formation auftauchen.
->      ![Lord Wicht ](/Assets/Gegner/singendeTiefen/abyssalerLordKlein.png)
+>   +   ![Lord Wicht ](/Assets/Gegner/singendeTiefen/abyssalerLordKlein.png)
 > 
 > ### **Auslöser**  
 > - **Missglückte Aktion:**  
@@ -89,10 +89,10 @@ Im Herzen der Unterwasserstadt pulsiert das Zentrum der Gefahr – ein weitläuf
 >    - **Transformation:**  
 >      Nachdem diverse Rätsel oder unglückliche Aktionen (falsche Handhabung des Apparats, missglückte Zauberproben) ausgelöst wurden, beginnt der Schleimwicht unkontrolliert zu pulsieren. Sein durch den Schatten überstrahlter Umriss wächst und dehnt sich aus, als ob er einem inneren Befehl Folge leistet.  
 >      In einem spektakulären Moment verschmilzt das Wesen mit seinem Schatten – Tentakel beginnen aus seinem Körper zu sprießen, und die Erscheinung wandelt sich schlagartig zum Abyssalen Tentakellord.
->      ![Abyssaler Tentakellord ](/Assets/Gegner/singendeTiefen/abyssalerLordGross.png)
+>   +   ![Abyssaler Tentakellord ](/Assets/Gegner/singendeTiefen/abyssalerLordGross.png)
 >    - **Begleitende Schergen:**  
 >      Gleichzeitig drängen beflosste Schergen (kleinere, aber agile Kreaturen mit Tentakelhaar) aus den umliegenden Dunkelzonen hervor und positionieren sich um den Boss, sodass ein koordinierter Angriff unvermeidlich erscheint.
->      ![Schergen ](/Assets/Gegner/singendeTiefen/lordSchergen.png)
+>   +   ![Schergen ](/Assets/Gegner/singendeTiefen/lordSchergen.png)
 > 
 > 2. **Phase 2 – Der Kampf um den Schatten:**  
 >    - **Kampfverlauf:**  
@@ -126,10 +126,9 @@ Tief abseits des alltäglichen Trubels liegt das Verborgenes Heiligtum – ein v
 
 **Gegner:**  
 - **Zweiaugiger Kauderwelschkrebs:** Als finale Hürde in diesem Bereich kombiniert er verbesserte Angriffsstrategien mit ausgeklügelten Hinterhalten, um Eindringlinge abzuwehren.  
-  ![Kauderwelschkrebs - groß](/Assets/Gegner/singendeTiefen/kauderwelschKrebs2.png)
++  ![Kauderwelschkrebs - groß](/Assets/Gegner/singendeTiefen/kauderwelschKrebs2.png)
 - **Halbstarker Muskelrochen (sporadisches Auftreten):** Selten taucht ein besonders agiler Muskelrochen auf, der den Spieler in einem Hinterhalt überrascht, sobald die Rätsel gelöst sind.
   ![Halbstarker Muskelrochen ](/Assets/Gegner/singendeTiefen/halbstarkerMuskelrochen.png)
-
 ---
 
 ### **5. Handelsviertel der Muschelkröten**
@@ -190,7 +189,7 @@ Dieses Handelsviertel bietet Abenteurern nicht nur die Möglichkeit, wesentliche
 
 > [!TIP]
 > - ### Quasselnder Ammonit
->  ![Der quasslende Ammonit ](/Assets/Gegner/singendeTiefen/quasselnderAmmonit.png)
+> + ![Der quasslende Ammonit ](/Assets/Gegner/singendeTiefen/quasselnderAmmonit.png)
 > 
 > #### Eigenschaften & Verhalten  
 > - **Aussehen:**  
@@ -219,7 +218,7 @@ Dieses Handelsviertel bietet Abenteurern nicht nur die Möglichkeit, wesentliche
 
 > [!TIP]
 > - ### Brutaler Blindfisch
->  ![Brutaler Blindfisch ](/Assets/Gegner/singendeTiefen/brutalerBlindfisch.png)
+> + ![Brutaler Blindfisch ](/Assets/Gegner/singendeTiefen/brutalerBlindfisch.png)
 > 
 > #### Eigenschaften & Verhalten  
 > - **Aussehen:**  
@@ -237,7 +236,7 @@ Dieses Handelsviertel bietet Abenteurern nicht nur die Möglichkeit, wesentliche
 
 > [!TIP]
 > - ### Der Quall
-> ![Quasselnder Quall ](/Assets/Gegner/singendeTiefen/quall.png)
+> + ![Quasselnder Quall ](/Assets/Gegner/singendeTiefen/quall.png)
 >
 > #### Eigenschaften & Verhalten  
 > - **Aussehen:**  
@@ -266,7 +265,7 @@ Dieses Handelsviertel bietet Abenteurern nicht nur die Möglichkeit, wesentliche
 
 > [!TIP]
 > - ### Kauderwelschkrebs – unterentwickelt
-> ![Kauderwelschkrebs - klein](/Assets/Gegner/singendeTiefen/kauderwelschKrebs1.png)
+> + ![Kauderwelschkrebs - klein](/Assets/Gegner/singendeTiefen/kauderwelschKrebs1.png)
 >
 > #### Eigenschaften & Verhalten  
 > - **Aussehen:**  
@@ -295,7 +294,7 @@ Dieses Handelsviertel bietet Abenteurern nicht nur die Möglichkeit, wesentliche
 
 > [!TIP]
 > - ### Kauderwelschkrebs – ausgewachsen
-> ![Kauderwelschkrebs - groß](/Assets/Gegner/singendeTiefen/kauderwelschKrebs2.png)
+> + ![Kauderwelschkrebs - groß](/Assets/Gegner/singendeTiefen/kauderwelschKrebs2.png)
 >
 > #### Eigenschaften & Verhalten  
 > - **Aussehen:**  

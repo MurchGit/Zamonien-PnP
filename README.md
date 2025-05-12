@@ -11,24 +11,14 @@ Dieses Repository umfasst ein Regelbuch, welches dich fantastische und literaris
    - [![Rassen](/Assets/headericons/subBanner002.png)](docs/03_Charaktererschaffung/03_2_Rassen_in_Zamonien.md)
 
 [**Die Zamonier** ](/docs/03_Charaktererschaffung/Rassen/03_01_Die_Zamonier.md)
-  *Beschreibung:* Ureinwohner mit vielseitiger, humorvoll-kreativer Art.  
-  *Spezialfähigkeit:* Erzählerische Präsenz – Bonus in Wortduellen und Verhandlungen.
 
 [**Igelfinken** ](/docs/03_Charaktererschaffung/Rassen/03_02_Die_Igelfinken.md)
-  *Beschreibung:* Kleine, agile Geschöpfe, bekannt für ihre schnelle Reaktion in engen Gassen.  
-  *Spezialfähigkeit:* Agile Flucht – Verbesserte Ausweichproben und schnelle Bewegungen.
 
 [**Die Rohkräftigen Ormfresser** ](/docs/03_Charaktererschaffung/Rassen/03_03_Die_Rohkraeftigen_Ormfresser.md) 
-  *Beschreibung:* Wuchtige, naturverbundene Kämpfer mit beeindruckender roher Kraft.  
-  *Spezialfähigkeit:* Urinstinkt – Zusätzliche Kraftimpulse, die Gegner zurückstoßen.
 
 [**Die Buchlinge** ](/docs/03_Charaktererschaffung/Rassen/03_04_Die_Buchlinge.md)
-  *Beschreibung:* Zierliche, buchähnliche Kreaturen mit papyrusartiger Haut und tintenblauen Augen.  
-  *Spezialfähigkeit:* Wortmagie & Lesende Eingebung – Narrative Wendung misslungener Würfe und Bonus bei literarischen Rätseln.
 
 [**Die Buntbären** ](/docs/03_Charaktererschaffung/Rassen/03_05_Die_Buntbaeren.md)
-  *Beschreibung:* Robuste, bärenähnliche Wesen mit leuchtendem, farbenfrohem Fell, die in magischen Wäldern heimisch sind.  
-  *Spezialfähigkeit:* Farbiger Kampfrausch – Einmal pro Abenteuer aktiviert ihr leuchtendes Farbenspiel, das Gegner blendet und ihnen sowie ihren Verbündeten Bonus auf körperliche und Orm-Proben verleiht.
   
    - [![Klassen](/Assets/headericons/subBanner003.png)](docs/03_Charaktererschaffung/03_3_Klassen_in_Zamonien.md)
    - [![Charakterbogen](/Assets/headericons/subBanner004.png)](docs/03_Charaktererschaffung/03_4_Charakterbogen.md)
@@ -85,7 +75,7 @@ Die Spieler entwickeln ihren Helden mit einer frei verteilbaren Punktzahl (z. 
 ---
 
 
-## 3. Klassenm – Kurzzitate
+## 3. Klassen – Kurzzitate
 
 > [!NOTE]
 > Hier einige prägnante Zitate, die die Klassenattribute zusammenfassen:

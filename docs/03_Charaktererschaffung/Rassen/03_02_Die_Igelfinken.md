@@ -2,6 +2,9 @@
 
 ![Ein Igelfink](/Assets/Character/Abenteurer/igelfinkChar.png)
 
+  *Beschreibung:* Kleine, agile Geschöpfe, bekannt für ihre schnelle Reaktion in engen Gassen.  
+  *Spezialfähigkeit:* Agile Flucht – Verbesserte Ausweichproben und schnelle Bewegungen.
+  
 ## 1. Einleitung
 
 Die Igelfinken sind geheimnisvolle, kleine und robuste Geschöpfe, die in den schattigen Ecken und verwinkelten Gassen Zamonien beheimatet sind. Ihre Erscheinung – eine faszinierende Mischung aus feinem Federkleid und stacheligen Akzenten – spiegelt zugleich Eleganz und eine robuste Wildheit wider. In Legenden und Erzählungen werden sie als listige Überlebenskünstler beschrieben, deren schicksalhafte Präsenz oft den Unterschied in brenzligen Situationen ausmacht. Ihr zaghafter Mut, gepaart mit einzigartiger Agilität und dem Segen des Glücks, macht sie zu unvergleichlichen Wesen in einer Welt, in der das Unerwartete regiert und jede Wendung eine neue Geschichte schreibt.

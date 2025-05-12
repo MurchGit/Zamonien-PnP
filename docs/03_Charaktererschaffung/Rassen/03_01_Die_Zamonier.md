@@ -1,5 +1,8 @@
 # Die Zamonier!
 
+  *Beschreibung:* Ureinwohner mit vielseitiger, humorvoll-kreativer Art.  
+  *Spezialfähigkeit:* Erzählerische Präsenz – Bonus in Wortduellen und Verhandlungen.
+  
 ## 1. Einleitung
 
 Die Zamonier sind das pulsierende Herz einer Welt, in der die Grenzen zwischen Realität und Fantasie fließend sind. In den Mythen und Legenden Zamoniens gelten sie nicht nur als Geschichtenerzähler und Bewahrer uralter Weisheiten, sondern auch als Schöpfer neuer Realitäten. Ihre Natur ist von Magie durchdrungen, und ihr Erbe ist eine Symbiose aus uralten Ritualen, künstlerischem Ausdruck und mystischen Kräften. Die Erzähltradition, die in ihrem Blut pulsiert, macht sie zu lebendigen Architekten des Schicksals – sie formen und verändern die Welt, indem sie Geschichte und Gegenwart miteinander verweben. Jeder Zamonier trägt das Versprechen in sich, dass das Leben mehr ist als nur zufällige Ereignisse, sondern ein kunstvolles Narrativ, das stets neu geschrieben werden kann.
