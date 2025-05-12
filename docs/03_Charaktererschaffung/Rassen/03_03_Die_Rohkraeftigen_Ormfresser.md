@@ -5,7 +5,8 @@
 
 ## 1. Einleitung
 
-Die Rohkräftigen Ormfresser sind das Inbegriffurtypische Volk der ungezähmten Natur in Zamonien. Überliefert in alten Sagen und mündlichen Überlieferungen gelten sie als die lebende Verkörperung der ursprünglichen Urgewalt und Naturverbundenheit. Ihre Legenden erzählen von Ritualen, die den „Urinstinkt“ wecken – eine unbändige Kraft, die sie in den Momenten größter Not in wahre Naturkataklysmen verwandelt. Diese Kämpfer, die im Laufe der Jahrhunderte ihre eigene Kultur aus Stammesritualen, raumenbezogenem Ehrgefühl und unerschütterlichem Mut entwickelt haben, stehen als Sinnbild für die rohe Kraft der Elemente und die Unbeugsamkeit eines Volkes, das tief in der Erde und im wilden Urwald verwurzelt ist.
+Die Rohkräftigen Ormfresser sind das Utypische Volk der ungezähmten Natur in Zamonien. Überliefert in alten Sagen und mündlichen Überlieferungen gelten sie als die lebende Verkörperung der ursprünglichen Urgewalt und Naturverbundenheit. Ihre Legenden erzählen von Ritualen, die den „Urinstinkt“ wecken – eine unbändige Kraft, die sie in den Momenten größter Not in wahre Naturkataklysmen verwandelt. Diese Kämpfer, die im Laufe der Jahrhunderte ihre eigene Kultur aus Stammesritualen, raumenbezogenem Ehrgefühl und unerschütterlichem Mut entwickelt haben, stehen als Sinnbild für die rohe Kraft der Elemente und die Unbeugsamkeit eines Volkes, das tief in der Erde und im wilden Urwald verwurzelt ist.
+
 ---
 
 ## 2. Die Rohkräftigen Ormfresser als Spielercharaktere

@@ -18,7 +18,7 @@ Dieses Regelwerk setzt genau da an, wo Walter Moers’ Welten mit einem Augenzwi
 - **Narrative Freiheit:** Nutze diesen Schritt, um deinem Charakter einen skurrilen Hintergrund zu verleihen – denn in Zamonien ist nichts so, wie es scheint.
 
 ### 2. Attributpunktverteilung
-- **Gesamtpunktzahl:** Jeder Spieler erhält beispielsweise **50 Punkte**, die er auf die folgenden sechs Attribute aufteilen kann.  
+- **Gesamtpunktzahl:** Jeder Spieler erhält beispielsweise bei der Erschaffung **25 Punkte**, die er auf die folgenden sechs Attribute aufteilen kann.  
 - **Mindest- und Höchstwerte:** Lege für jedes Attribut einen Bereich fest, z. B. mindestens 5 und höchstens 15 Punkte, um die Balance zwischen den Charakteren zu gewährleisten.
 
 ---

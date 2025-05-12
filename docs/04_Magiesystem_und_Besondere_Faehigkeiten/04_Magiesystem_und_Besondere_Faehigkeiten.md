@@ -25,6 +25,8 @@ In Zamonien wird Magie zur Kunst – sie entsteht aus geschriebenen und gesproch
   - **SCH (Schlagfertigkeit):** Fördert improvisierte und taktische Reaktionen in kritischen Momenten.  
   - **LUKSH (Schicksalsfugend):** Steuert glückliche Zufälle oder dramatische Wendungen.  
   - **ORM:** (Orm) Symbolisiert die besondere, mystische Verbindung zu den ältesten Zaubergeschichten Zamonien.
+  - **MAG:** (Magiekund) steht für ein tiefgehendes Verständnis magischer Kräfte und übernatürlicher Phänomene.
+
 
 - **Spielmechanik:**  
   Ein Zauber besteht aus der narrativen Vorbereitung, 
@@ -86,6 +88,8 @@ Jedes Attribut bringt sein eigenes, unverwechselbares Element in die Magiekunst 
 - **ORM (Orm):**  
   ORM symbolisiert die tiefe, mystische Verbindung zu den ältesten Erzähltraditionen Zamonien. Ein hoher ORM-Wert befähigt den Zauberer, uralte und nur wenigen Bekannte Zauber zu wirken – etwa den „Urgesang des Orms“, bei dem die Grenzen von Zeit und Raum kurzzeitig verschwimmen. Diese Kraft ist selten und muss mit größter Sorgfalt eingesetzt werden.
 
+- **MAG (Magiekund):**  
+  MAG steht für ein tiefgehendes Verständnis magischer Kräfte und übernatürlicher Phänomene. Es vereint sowohl theoretisches Wissen als auch praktische Anwendung, wodurch Charaktere Magie nicht nur erkennen, sondern aktiv manipulieren können.
 ---
 
 ## 4. Mechanik und Spielablauf
