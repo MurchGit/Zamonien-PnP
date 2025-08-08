@@ -8,7 +8,7 @@ Dieses Repository umfasst ein Regelbuch, welches dich fantastische und literaris
 ### 1. [![Einführung & Hintergrund](/Assets/headericons/hBanner001.png)](docs/01_Einfuehrung_und_Hintergrund/01_Einfuehrung_und_Hintergrund.md)
 
 
-### 2. ![Spielmechaniken & Würfelsystem](/Assets/headericons/hBanner002.png)
+### 2. ![Spielmechaniken & Würfelsystem](/Assets/headericons/hBanner010.png)
    - [![Allgemein](/Assets/headericons/subBanner007.png)](/docs/02_Spielmechaniken_und_Wuerfelsystem/02_Spielmechaniken_und_Wuerfelsystem.md)
    - [![Energiesystem](/Assets/headericons/subBanner008.png)](/docs//02_Spielmechaniken_und_Wuerfelsystem/02_01_Energiesystem.md)
    - [![Regeneration im Zeltlager](/Assets/headericons/subBanner009.png)](/docs/02_Spielmechaniken_und_Wuerfelsystem/02_02_Regeneration_im_Zeltlager.md)
@@ -18,27 +18,33 @@ Dieses Repository umfasst ein Regelbuch, welches dich fantastische und literaris
    - [![Attributsystem](/Assets/headericons/subBanner001.png)](docs/03_Charaktererschaffung/03_1_Attributsystem.md)
    - [![Rassen](/Assets/headericons/subBanner002.png)](docs/03_Charaktererschaffung/03_2_Rassen_in_Zamonien.md)
 
-[**Die Zamonier** ](/docs/03_Charaktererschaffung/Rassen/03_01_Die_Zamonier.md)
-- [![Die Zamonier](/Assets/Charakter/Rassen/zamonier_05.png)](docs/03_Charaktererschaffung/Rassen/03_01_Die_Zamonier.md)
+[![Die Zamonier](/Assets/Character/Rassen/zamonier_05.png)](docs/03_Charaktererschaffung/Rassen/03_01_Die_Zamonier.md)
+- [**Die Zamonier** ](/docs/03_Charaktererschaffung/Rassen/03_01_Die_Zamonier.md)
 
-[**Igelfinken** ](/docs/03_Charaktererschaffung/Rassen/03_02_Die_Igelfinken.md)
-- [![Die Igelfinken](/Assets/Charakter/Rassen/igelfinken_03.png)](docs/03_Charaktererschaffung/Rassen/03_02_Die_Igelfinken.md)
 
-[**Die Rohkräftigen Ormfresser** ](/docs/03_Charaktererschaffung/Rassen/03_03_Die_Rohkraeftigen_Ormfresser.md)
-- [![Die Rohrkräftigen Ormfresser](/Assets/Charakter/Rassen/ormfresser_04.png)](docs/03_Charaktererschaffung/Rassen/03_03_Die_Rohkraeftigen_Ormfresser.md)
+[![Die Igelfinken](/Assets/Character/Rassen/igelfinken_03.png)](docs/03_Charaktererschaffung/Rassen/03_02_Die_Igelfinken.md)
+- [**Igelfinken** ](/docs/03_Charaktererschaffung/Rassen/03_02_Die_Igelfinken.md)
 
-[**Die Buchlinge** ](/docs/03_Charaktererschaffung/Rassen/03_04_Die_Buchlinge.md)
-- [![Die Buchlinge](/Assets/Charakter/Rassen/buchlinge_01.png)](docs/03_Charaktererschaffung/Rassen/03_04_Die_Buchlinge.md)
+ 
+[![Die Rohrkräftigen Ormfresser](/Assets/Character/Rassen/ormfresser_04.png)](docs/03_Charaktererschaffung/Rassen/03_03_Die_Rohkraeftigen_Ormfresser.md)
+- [**Die Rohkräftigen Ormfresser** ](/docs/03_Charaktererschaffung/Rassen/03_03_Die_Rohkraeftigen_Ormfresser.md)
 
-[**Die Buntbären** ](/docs/03_Charaktererschaffung/Rassen/03_05_Die_Buntbaeren.md)
-- [![Die Buntbären](/Assets/Charakter/Rassen/buntbaeren_02.png)](docs/03_Charaktererschaffung/Rassen/03_05_Die_Buntbaeren.md)
+
+[![Die Buchlinge](/Assets/Character/Rassen/buchlinge_01.png)](docs/03_Charaktererschaffung/Rassen/03_04_Die_Buchlinge.md)
+- [**Die Buchlinge** ](/docs/03_Charaktererschaffung/Rassen/03_04_Die_Buchlinge.md)
+
+
+[![Die Buntbären](/Assets/Character/Rassen/buntbaeren_02.png)](docs/03_Charaktererschaffung/Rassen/03_05_Die_Buntbaeren.md)
+- [**Die Buntbären** ](/docs/03_Charaktererschaffung/Rassen/03_05_Die_Buntbaeren.md)
+
+
   
    - [![Klassen](/Assets/headericons/subBanner003.png)](docs/03_Charaktererschaffung/03_3_Klassen_in_Zamonien.md)
    
    - [![Charakterbogen](/Assets/headericons/subBanner004.png)](docs/03_Charaktererschaffung/03_4_Charakterbogen.md)
 
 
-### 4. [![Magiesystem & Besondere Fähigkeiten](/Assets/headericons/hBanner009.png)](docs/04_Magiesystem_und_Besondere_Faehigkeiten/04_Magiesystem_und_Besondere_Faehigkeiten.md)
+### 4. [![Magiesystem & Besondere Fähigkeiten](/headericons/hBanner009.png)](docs/04_Magiesystem_und_Besondere_Faehigkeiten/04_Magiesystem_und_Besondere_Faehigkeiten.md)
  [![Ausrüstung & Gegenstände](/Assets/headericons/hBanner004.png)](docs/05_Ausruestung_und_Gegenstaende/05_Ausruestung_und_Gegenstaende.md)
 
 
