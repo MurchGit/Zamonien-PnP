@@ -44,8 +44,7 @@ Dieses Repository umfasst ein Regelbuch, welches dich fantastische und literaris
    - [![Charakterbogen](/Assets/headericons/subBanner004.png)](docs/03_Charaktererschaffung/03_4_Charakterbogen.md)
 
 
-### 4. [![Magiesystem & Besondere Fähigkeiten](/headericons/hBanner009.png)](docs/04_Magiesystem_und_Besondere_Faehigkeiten/04_Magiesystem_und_Besondere_Faehigkeiten.md)
- [![Ausrüstung & Gegenstände](/Assets/headericons/hBanner004.png)](docs/05_Ausruestung_und_Gegenstaende/05_Ausruestung_und_Gegenstaende.md)
+### 4. [![Magiesystem & Besondere Fähigkeiten](/Assets/headericons/hBanner009.png)](docs/04_Magiesystem_und_Besondere_Faehigkeiten/04_Magiesystem_und_Besondere_Faehigkeiten.md)
 
 
 ### 5. [![Ausrüstung & Loot](/Assets/headericons/hBanner004.png)](docs/05_Ausruestung_und_Gegenstaende/05_Ausruestung_und_Gegenstaende.md)
