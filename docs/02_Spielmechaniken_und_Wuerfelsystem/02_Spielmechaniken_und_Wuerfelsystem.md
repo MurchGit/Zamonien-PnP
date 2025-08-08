@@ -11,6 +11,12 @@ Das Spiel basiert auf einem einfachen, aber vielseitigen Würfelsystem, das es e
 
 Dieses System erlaubt es, jede Aktion – ob ein körperlicher Angriff, ein magischer Duell oder ein rhetorisch-ästhetischer Wortkampf – in einem einzigen Wurf zu entscheiden und dabei den individuellen Charakter des Helden einzubinden.
 
+> [!NOTE] **Würfelmechaniken & Einsatz:**  
+> [- Jede Aktion (soweit nicht anders beschrieben) wird mit einem W20 plus dem relevanten Attributswert geprüft.
+> [- Kritische Erfolge (typisch 5+ Punkte über dem SG oder eine natürliche 20) lösen narrative Bonuswirkungen aus.
+> [- Eine gewürfelte 1 signalisiert einen kritischen Misserfolg und wird als Gelegenheit genutzt, humorvolle oder dramatische Wendungen einzubringen.
+> [- Die zufällige Trankwahl wird mit einem W8(w8) durchgeführt. [Trankwahl](/docs/07_Kampf_und_Konfliktsystem/07_01_Zufaellige_Trankwahl.md)
+
 ---
 
 ### Aufteilung der Konflikte

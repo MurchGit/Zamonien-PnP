@@ -14,29 +14,31 @@ Dieses Regelwerk setzt genau da an, wo Walter Moers’ Welten mit einem Augenzwi
 ## I. Charaktererstellung
 
 ### 1. Konzept & Hintergrund
+
 - **Wähle dein zamonisches Schicksal:** Überlege dir, aus welchem Winkel des unmöglichen Universums dein Charakter stammt. War er etwa einst ein verlorener Bibliothekswächter in der Moloch-Mantelstadt, ein wandernder Geschichtenerzähler mit einem unermesslichen Regal voller seltsamer Geschichten oder gar ein ehemaliger Schüler des legendären Schrecksenmeisters?  
 - **Narrative Freiheit:** Nutze diesen Schritt, um deinem Charakter einen skurrilen Hintergrund zu verleihen – denn in Zamonien ist nichts so, wie es scheint.
 
 ### 2. Attributpunktverteilung
+
 - **Gesamtpunktzahl:** Jeder Spieler erhält beispielsweise bei der Erschaffung **25 Punkte**, die er auf die folgenden sechs Attribute aufteilen kann.  
 - **Mindest- und Höchstwerte:** Lege für jedes Attribut einen Bereich fest, z. B. mindestens 5 und höchstens 15 Punkte, um die Balance zwischen den Charakteren zu gewährleisten.
 
 ---
 
 ## II. Die sieben Zamonischen Attribute
+ 
+Die Spieler entwickeln ihren Helden mit einer frei verteilbaren Punktzahl (z. B. 15 Punkte) auf acht zentrale Attribute: 
 
-Jedes Attribut repräsentiert einen essenziellen Aspekt – von verborgener Kreativität bis zum chaotischen Schicksalsfunken. Sie wirken in allen Bereichen des Spiels, von magischen Improvisationen bis zum körperlichen Ausweichen in schmerzhaften, aber oft urkomischen Situationen.
-
-| Attribut            | Abkürzung | Beschreibung |
-| ------------------- | --------- | ------------ |
-| **Fantasie**        | FAN       | Die Quelle aller kreativen Einfälle und magischen Improvisationen. Sie bestimmt, wie kunstvoll der Charakter unmögliche Situationen in wundersame Lösungen verwandelt. |
-| **Mut**             | MUT       | Der innere Antrieb, Widrigkeiten und grotesken Gestalten ohne Zögern zu begegnen. Ob im Angesicht der tückischen Fallgruben oder surrealen Ungeheuern – Mut ist gefragt. |
-| **Verstand**        | VER       | Repräsentiert Logik, Scharfsinn und tiefes Wissen über zamonische Mysterien. Rätsel und Intrigen lassen sich durch einen wachen Geist oft meistern. |
-| **Gewandtheit**     | GEW       | Die körperliche Finesse und Geschicklichkeit, die nötig ist, um in den labyrinthartigen Gassen—oder schwebenden Tavernen—Zamoniens nicht über den eigenen Füßen zu stolpern. |
-| **Schlagfertigkeit**| SCH       | Die Fähigkeit, in hitzigen Wortgefechten und unerwarteten Situationen schnell und trouvez zu reagieren. Ein schlagfertiger Spruch kann nicht nur Gegner entwaffnen, sondern auch das Schicksal in unerwartete Bahnen lenken. |
-| **Schicksalsfugend**| LUKSH     | Ein mysteriöses Attribut, das den launischen Tanz zwischen Glück und Pech bestimmt. Es regelt jene Momente, in denen das Universum selbst seinen skurrilen Sinn für Humor zeigt. |
-| **Orm**             | ORM       | Verkörpert die rohe, instinktive Energie eines Charakters. Orm ist eine Mischung aus physischer Rohkraft und mystischer Vitalität. Ein hoher Orm-Wert signalisiert, dass dein Charakter nicht nur über beeindruckende Muskelkraft, sondern auch über einen fast archaischen Überlebenswillen verfügt, der in kritischen Momenten (oder in den absurd-komischen Wendungen) den Unterschied machen kann. |
-| **Magiekund**       | MAG       | Die tiefgehende Kenntnis und das intuitive Verständnis von magischen Kräften, arkanen Theorien und übernatürlichen Phänomenen widerspiegelt. Es umfasst sowohl theoretisches Wissen als auch praktische Anwendung, sodass Charaktere mit diesem Attribut die Essenz von Magie nicht nur erkennen, sondern auch manipulieren können.
+  | Zuordnung    |  Attribut            | Abkürzung | Beschreibung |
+  | -------------| ------------------- | --------- | ------------ |
+  | **1**        | **Fantasie**        | FAN       | Die Quelle aller kreativen Einfälle und magischen Improvisationen. Sie bestimmt, wie kunstvoll der Charakter unmögliche Situationen in wundersame Lösungen verwandelt. |
+  | **2**        | **Mut**             | MUT       | Der innere Antrieb, Widrigkeiten und grotesken Gestalten ohne Zögern zu begegnen. Ob im Angesicht der tückischen Fallgruben oder surrealen Ungeheuern – Mut ist gefragt. |
+  | **3**        | **Verstand**        | VER       | Repräsentiert Logik, Scharfsinn und tiefes Wissen über zamonische Mysterien. Rätsel und Intrigen lassen sich durch einen wachen Geist oft meistern. |
+  | **4**        | **Gewandtheit**     | GEW       | Die körperliche Finesse und Geschicklichkeit, die nötig ist, um in den labyrinthartigen Gassen—oder schwebenden Tavernen—Zamoniens nicht über den eigenen Füßen zu stolpern. |
+  | **5**        | **Schlagfertigkeit**| SCH       | Die Fähigkeit, in hitzigen Wortgefechten und unerwarteten Situationen schnell und trouvez zu reagieren. Ein schlagfertiger Spruch kann nicht nur Gegner entwaffnen, sondern auch das Schicksal in unerwartete Bahnen lenken. |
+  | **6**        | **Schicksalsfugend**| LUKSH     | Ein mysteriöses Attribut, das den launischen Tanz zwischen Glück und Pech bestimmt. Es regelt jene Momente, in denen das Universum selbst seinen skurrilen Sinn für Humor zeigt. |
+  | **7**        | **Orm**             | ORM       | Verkörpert die rohe, instinktive Energie eines Charakters. Orm ist eine Mischung aus physischer Rohkraft und mystischer Vitalität. Ein hoher Orm-Wert signalisiert, dass dein Charakter nicht nur über beeindruckende Muskelkraft, sondern auch über einen fast archaischen Überlebenswillen verfügt, der in kritischen Momenten (oder in den absurd-komischen Wendungen) den Unterschied machen kann. |
+  | **8**        | **Magiekund**       | MAG       | Die tiefgehende Kenntnis und das intuitive Verständnis von magischen Kräften, arkanen Theorien und übernatürlichen Phänomenen widerspiegelt. Es umfasst sowohl theoretisches Wissen als auch praktische Anwendung, sodass Charaktere mit diesem Attribut die Essenz von Magie nicht nur erkennen, sondern auch manipulieren können.
 
 
 ## III. Zamonische Mechanik & Proben
